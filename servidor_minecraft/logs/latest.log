@@ -445,3 +445,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [14Dec2024 14:59:16.756] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Katheryn'/1611, l='ServerLevel[world]', x=-1610.46, y=64.75, z=1936.29] died: Katheryn was slain by Skeleton
 [14Dec2024 14:59:22.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Getting an Upgrade]
 [14Dec2024 14:59:59.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru has made the advancement [Getting an Upgrade]
+[14Dec2024 15:09:12.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru has made the advancement [Sweet Dreams]
+[14Dec2024 15:09:18.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Sweet Dreams]
+[14Dec2024 15:13:57.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [First Age]
