@@ -330,6 +330,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2024-12-14 15:08:41 +0000",
+      "minecraft:frozen_ocean": "2024-12-14 15:12:07 +0000",
       "minecraft:snowy_beach": "2024-12-14 14:59:11 +0000",
       "minecraft:meadow": "2024-12-13 20:35:45 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-14 14:47:04 +0000"
@@ -496,6 +497,12 @@
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2024-12-14 14:55:50 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2024-12-14 15:16:36 +0000"
     },
     "done": true
   },

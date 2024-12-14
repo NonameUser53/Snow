@@ -332,6 +332,7 @@
       "minecraft:frozen_river": "2024-12-14 14:52:19 +0000",
       "minecraft:grove": "2024-12-13 19:08:37 +0000",
       "minecraft:forest": "2024-12-14 14:55:54 +0000",
+      "minecraft:frozen_ocean": "2024-12-14 15:18:26 +0000",
       "minecraft:snowy_beach": "2024-12-14 14:59:31 +0000",
       "minecraft:meadow": "2024-12-13 18:58:56 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-14 14:51:47 +0000"
@@ -378,6 +379,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-14 14:57:10 +0000",
       "minecraft:spider": "2024-12-14 15:08:11 +0000",
+      "minecraft:creeper": "2024-12-14 15:17:32 +0000",
       "minecraft:zombie": "2024-12-13 19:09:24 +0000"
     },
     "done": false
@@ -815,6 +817,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 15:19:52 +0000"
+    },
+    "done": true
+  },
   "evilcraft:root": {
     "criteria": {
       "criteria_0": "2024-12-14 14:54:54 +0000"
@@ -854,6 +862,12 @@
   "uniquedungeons:ancient_note": {
     "criteria": {
       "requirement": "2024-12-14 15:01:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 15:19:52 +0000"
     },
     "done": true
   },
@@ -929,6 +943,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-12-14 15:18:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-14 14:58:27 +0000"
@@ -938,6 +958,18 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2024-12-14 14:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-12-14 15:19:51 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2024-12-14 15:13:57 +0000"
     },
     "done": true
   },
@@ -989,6 +1021,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-14 15:17:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-14 14:58:27 +0000"
@@ -1022,6 +1060,12 @@
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2024-12-14 14:54:03 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/silver_bomb": {
+    "criteria": {
+      "has_gunpowder": "2024-12-14 15:17:32 +0000"
     },
     "done": true
   },
@@ -1061,6 +1105,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 15:19:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-12-14 15:08:11 +0000"
@@ -1082,6 +1132,12 @@
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2024-12-14 15:08:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-14 15:19:51 +0000"
     },
     "done": true
   },
@@ -1127,6 +1183,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 15:19:52 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/wooden_brewingstation": {
     "criteria": {
       "has_furnace": "2024-12-14 14:59:05 +0000"
@@ -1148,6 +1210,12 @@
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2024-12-14 14:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-14 15:19:52 +0000"
     },
     "done": true
   },
@@ -1183,9 +1251,16 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "rotten_flesh": "2024-12-14 14:52:40 +0000"
+      "rotten_flesh": "2024-12-14 14:52:40 +0000",
+      "carrot": "2024-12-14 15:20:04 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-14 15:17:32 +0000"
+    },
+    "done": true
   },
   "aquaculture:recipes/tools/stone_fillet_knife": {
     "criteria": {
@@ -1205,9 +1280,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2024-12-14 15:18:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-14 15:08:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 15:19:52 +0000"
     },
     "done": true
   },
