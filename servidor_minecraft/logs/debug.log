@@ -8394,3 +8394,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [14Dec2024 14:43:57.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru has made the advancement [The Most Useful Key]
 [14Dec2024 14:44:24.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru has made the advancement [Knowledge of Death]
 [14Dec2024 14:44:24.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru has reached the goal [A Fast Comeback]
+[14Dec2024 14:45:04.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Made Rinnmaru a server operator]
+[14Dec2024 14:45:16.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Rinnmaru]
+[14Dec2024 14:45:17.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Minecraft Comes Alive]
+[14Dec2024 14:46:03.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru has made the advancement [Knowledge raises the soul]
+[14Dec2024 14:46:14.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 14:46:14.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 14:51:14.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 14:51:14.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 14:55:16.651] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Bibo'/1974, l='ServerLevel[world]', x=-1622.71, y=63.42, z=1827.94] died, message: 'Bibo was slain by Zombie'
+[14Dec2024 14:55:16.655] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Bibo'/1974, l='ServerLevel[world]', x=-1622.71, y=63.42, z=1827.94] died: Bibo was slain by Zombie
+[14Dec2024 14:55:36.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was blown up by Creeper
+[14Dec2024 14:55:36.977] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-1578, y:78, z:1872, dim:minecraft:overworld]
+[14Dec2024 14:55:36.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Your First Grave]
+[14Dec2024 14:55:37.016] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
