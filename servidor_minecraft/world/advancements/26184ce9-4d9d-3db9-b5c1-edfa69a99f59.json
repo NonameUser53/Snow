@@ -330,7 +330,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2024-12-14 15:08:41 +0000",
+      "minecraft:snowy_plains": "2024-12-14 15:40:27 +0000",
       "minecraft:frozen_ocean": "2024-12-14 15:12:07 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-14 15:36:14 +0000",
       "minecraft:snowy_beach": "2024-12-14 14:59:11 +0000",
       "minecraft:meadow": "2024-12-13 20:35:45 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-14 14:47:04 +0000"
@@ -458,6 +460,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/ghost_sword": {
+    "criteria": {
+      "has_item": "2024-12-14 15:30:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
       "has_item": "2024-12-14 14:55:52 +0000"
@@ -527,6 +535,12 @@
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2024-12-14 14:44:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 15:29:44 +0000"
     },
     "done": true
   },
@@ -617,6 +631,18 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-14 15:03:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-14 15:29:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 15:24:07 +0000"
     },
     "done": true
   },
