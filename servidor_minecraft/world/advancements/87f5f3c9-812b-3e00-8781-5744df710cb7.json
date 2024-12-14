@@ -331,6 +331,7 @@
     "criteria": {
       "minecraft:frozen_river": "2024-12-14 14:52:19 +0000",
       "minecraft:snowy_plains": "2024-12-14 15:39:25 +0000",
+      "minecraft:snowy_taiga": "2024-12-14 15:52:35 +0000",
       "minecraft:grove": "2024-12-13 19:08:37 +0000",
       "minecraft:forest": "2024-12-14 14:55:54 +0000",
       "minecraft:frozen_ocean": "2024-12-14 15:18:26 +0000",
@@ -382,6 +383,8 @@
       "minecraft:skeleton": "2024-12-14 14:57:10 +0000",
       "minecraft:spider": "2024-12-14 15:08:11 +0000",
       "minecraft:creeper": "2024-12-14 15:17:32 +0000",
+      "minecraft:witch": "2024-12-14 15:47:31 +0000",
+      "minecraft:stray": "2024-12-14 15:41:25 +0000",
       "minecraft:zombie": "2024-12-13 19:09:24 +0000"
     },
     "done": false
@@ -819,6 +822,12 @@
     },
     "done": true
   },
+  "brewery:recipes/sausage": {
+    "criteria": {
+      "has_cooked_beef": "2024-12-14 15:42:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-14 15:19:52 +0000"
@@ -864,6 +873,18 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-14 14:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2024-12-14 15:47:32 +0000"
     },
     "done": true
   },
@@ -927,6 +948,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2024-12-14 15:37:05 +0000"
@@ -948,6 +975,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-14 14:58:27 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/barometer": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
     },
     "done": true
   },
@@ -981,6 +1014,24 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/ghost_sword": {
     "criteria": {
       "has_item": "2024-12-14 15:23:49 +0000"
@@ -993,9 +1044,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2024-12-14 15:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-14 15:49:09 +0000"
     },
     "done": true
   },
@@ -1011,9 +1074,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2024-12-14 14:55:36 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2024-12-14 15:44:23 +0000"
     },
     "done": true
   },
@@ -1035,15 +1110,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-14 15:45:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-14 14:58:27 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-14 15:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
     },
     "done": true
   },
@@ -1077,6 +1170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-14 15:49:09 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2024-12-14 14:57:16 +0000"
@@ -1098,6 +1197,18 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-14 14:58:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-14 15:47:32 +0000"
     },
     "done": true
   },
@@ -1143,6 +1254,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2024-12-14 15:42:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-12-14 15:33:38 +0000"
@@ -1161,6 +1284,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-14 14:58:27 +0000"
@@ -1176,6 +1305,18 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-14 15:08:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 15:49:09 +0000"
     },
     "done": true
   },
@@ -1209,6 +1350,24 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2024-12-14 15:33:38 +0000"
@@ -1221,15 +1380,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-14 15:49:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 15:49:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-14 14:57:11 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_axe": {
     "criteria": {
       "has_item": "2024-12-14 15:37:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2024-12-14 15:47:32 +0000"
     },
     "done": true
   },
@@ -1260,6 +1443,12 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2024-12-14 15:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
     },
     "done": true
   },
@@ -1299,6 +1488,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-14 15:45:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-14 15:02:46 +0000"
@@ -1317,9 +1518,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-14 15:19:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 15:47:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
     },
     "done": true
   },
@@ -1341,9 +1566,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2024-12-14 14:54:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
     },
     "done": true
   },
@@ -1389,9 +1632,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-14 15:33:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
     },
     "done": true
   },
@@ -1409,6 +1664,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-14 15:42:32 +0000",
+      "porkchop": "2024-12-14 15:52:12 +0000",
       "rotten_flesh": "2024-12-14 14:52:40 +0000",
       "carrot": "2024-12-14 15:20:04 +0000"
     },
@@ -1423,6 +1680,12 @@
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2024-12-14 15:37:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2024-12-14 15:47:32 +0000"
     },
     "done": true
   },
@@ -1468,6 +1731,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-12-14 14:56:02 +0000"
@@ -1477,6 +1746,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-14 15:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-14 15:47:32 +0000"
     },
     "done": true
   },
