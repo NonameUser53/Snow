@@ -442,3 +442,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [15Dec2024 16:29:52.275] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.99.124.45:52373] logged in with entity id 1757 at (146.69999998807907, 9.875, 3609.699999988079)
 [15Dec2024 16:29:52.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
 [15Dec2024 16:29:52.377] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
+[15Dec2024 16:30:52.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Timed out
+[15Dec2024 16:30:52.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[15Dec2024 16:31:18.824] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.99.124.45:52397] logged in with entity id 1956 at (146.69999998807907, 9.875, 3609.699999988079)
+[15Dec2024 16:31:18.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
+[15Dec2024 16:31:18.963] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
+[15Dec2024 16:32:18.952] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Timed out
+[15Dec2024 16:32:18.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[15Dec2024 16:35:49.023] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.99.124.45:52531] logged in with entity id 2472 at (146.69999998807907, 9.875, 3609.699999988079)
+[15Dec2024 16:35:49.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
+[15Dec2024 16:35:49.152] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
+[15Dec2024 16:36:49.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Timed out
+[15Dec2024 16:36:49.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[15Dec2024 16:37:59.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.99.124.45:52590] logged in with entity id 2626 at (146.69999998807907, 9.875, 3609.699999988079)
+[15Dec2024 16:37:59.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
+[15Dec2024 16:37:59.784] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
+[15Dec2024 16:38:59.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Timed out
+[15Dec2024 16:38:59.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
