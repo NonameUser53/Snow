@@ -410,6 +410,7 @@
       "minecraft:witch": "2024-12-14 15:47:31 +0000",
       "minecraft:stray": "2024-12-14 15:41:25 +0000",
       "minecraft:silverfish": "2024-12-15 17:33:59 +0000",
+      "minecraft:enderman": "2024-12-15 19:07:29 +0000",
       "minecraft:zombie": "2024-12-13 19:09:24 +0000"
     },
     "done": false
@@ -4422,6 +4423,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-15 19:09:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-15 18:54:47 +0000"
@@ -4500,6 +4507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-15 19:09:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-15 18:54:47 +0000"
@@ -4521,6 +4534,18 @@
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2024-12-15 18:54:47 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/obsidian_dust": {
+    "criteria": {
+      "has_obsidian": "2024-12-15 19:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-15 19:09:06 +0000"
     },
     "done": true
   },
