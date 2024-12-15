@@ -8687,3 +8687,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [15Dec2024 18:35:52.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> oki
 [15Dec2024 18:35:53.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Disconnected
 [15Dec2024 18:35:53.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[15Dec2024 18:36:53.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 18:36:53.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 18:41:53.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 18:41:53.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 18:42:41.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Set the time to 1000]
