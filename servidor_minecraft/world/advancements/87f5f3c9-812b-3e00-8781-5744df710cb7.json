@@ -3667,6 +3667,24 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2024-12-14 19:01:49 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2024-12-14 19:01:50 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+    "criteria": {
+      "requirement": "2024-12-14 19:01:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2024-12-14 19:03:46 +0000"
@@ -3763,27 +3781,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/ink_legendary": {
-    "criteria": {
-      "requirement": "2024-12-14 19:01:49 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/staff_root": {
-    "criteria": {
-      "requirement": "2024-12-14 19:01:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-14 19:20:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2024-12-14 19:20:51 +0000"
     },
     "done": true
   },
@@ -3793,9 +3793,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+  "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
-      "requirement": "2024-12-14 19:01:50 +0000"
+      "has_pointed_dripstone": "2024-12-14 19:20:51 +0000"
     },
     "done": true
   },
