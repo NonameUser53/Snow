@@ -2124,6 +2124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-15 18:57:43 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
     "criteria": {
       "has_datura": "2024-12-15 18:35:03 +0000"
@@ -2133,6 +2139,12 @@
   "iceandfire:iceandfire/dragon_horn": {
     "criteria": {
       "bestiary": "2024-12-15 18:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-15 18:57:43 +0000"
     },
     "done": true
   },
@@ -2181,6 +2193,18 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2024-12-15 18:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-15 18:57:43 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2024-12-15 18:51:36 +0000"
     },
     "done": true
   },
