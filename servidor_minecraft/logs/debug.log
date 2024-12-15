@@ -8416,3 +8416,41 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [15Dec2024 17:34:19.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i hate them-
 [15Dec2024 17:34:40.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> use dis
 [15Dec2024 17:34:59.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> keep pressed
+[15Dec2024 17:35:14.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> HUH
+[15Dec2024 17:35:28.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> idk-
+[15Dec2024 17:35:30.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> what does it do
+[15Dec2024 17:35:37.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> should have spawned a polar bear
+[15Dec2024 17:35:55.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> it said it was used on me-
+[15Dec2024 17:36:32.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 17:36:32.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 17:37:03.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> anyway
+[15Dec2024 17:37:06.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> lets go backie
+[15Dec2024 17:37:09.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> oki owo
+[15Dec2024 17:37:12.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 65.500000, 77.500000, 3654.500000]
+[15Dec2024 17:37:15.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> tp to me
+[15Dec2024 17:37:18.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[15Dec2024 17:37:48.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> ah sunset
+[15Dec2024 17:38:16.661] [Worker-Main-3/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from galosphere.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Dec2024 17:38:16.662] [Worker-Main-3/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Dec2024 17:38:25.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> we need iron-
+[15Dec2024 17:38:29.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> this isn't our house
+[15Dec2024 17:39:32.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [We do a little trolling...]
+[15Dec2024 17:40:40.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> my god-
+[15Dec2024 17:40:49.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> how dare they touch my master
+[15Dec2024 17:41:15.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 64.500000, 92.500000, 3641.500000]
+[15Dec2024 17:41:32.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 17:41:32.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 17:41:33.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[15Dec2024 17:41:38.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> where is homee
+[15Dec2024 17:41:42.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> uuuuh
+[15Dec2024 17:42:06.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[15Dec2024 17:42:14.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i think it was green
+[15Dec2024 17:42:23.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> on a cliff
+[15Dec2024 17:44:12.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> did they change or something-
+[15Dec2024 17:44:18.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> nu-
+[15Dec2024 17:44:26.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> then where-
+[15Dec2024 17:44:34.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[15Dec2024 17:45:10.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Zombie
+[15Dec2024 17:45:10.148] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:72, y:77, z:3643, dim:minecraft:overworld]
+[15Dec2024 17:45:10.210] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[15Dec2024 17:45:18.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> tp to me
