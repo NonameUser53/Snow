@@ -332,6 +332,7 @@
       "minecraft:taiga": "2024-12-14 16:01:32 +0000",
       "minecraft:deep_ocean": "2024-12-14 17:28:35 +0000",
       "minecraft:frozen_river": "2024-12-14 15:08:41 +0000",
+      "minecraft:cherry_grove": "2024-12-15 18:24:41 +0000",
       "minecraft:windswept_hills": "2024-12-14 16:25:32 +0000",
       "minecraft:beach": "2024-12-14 16:03:33 +0000",
       "minecraft:sparse_jungle": "2024-12-15 17:50:04 +0000",
@@ -349,8 +350,10 @@
       "minecraft:snowy_beach": "2024-12-14 14:59:11 +0000",
       "minecraft:windswept_savanna": "2024-12-14 16:44:01 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-14 17:24:23 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-15 18:08:40 +0000",
       "minecraft:meadow": "2024-12-13 20:35:45 +0000",
-      "minecraft:windswept_gravelly_hills": "2024-12-14 14:47:04 +0000"
+      "minecraft:windswept_gravelly_hills": "2024-12-14 14:47:04 +0000",
+      "minecraft:plains": "2024-12-15 18:24:46 +0000"
     },
     "done": false
   },
@@ -2103,6 +2106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-15 18:02:52 +0000"
+    },
+    "done": true
+  },
   "vinery:main/budding_grapes": {
     "criteria": {
       "vinery:jungle_grapes_white": "2024-12-15 17:50:11 +0000"
@@ -2115,11 +2124,131 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2024-12-15 18:21:05 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2024-12-15 18:24:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-15 18:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-15 18:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-15 18:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-15 18:08:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2024-12-15 18:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-12-15 18:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-12-15 18:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-15 18:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2024-12-15 18:08:46 +0000"
+    },
+    "done": true
+  },
   "vinery:main/vineyard_visionary": {
     "criteria": {
       "vinery:jungle_grapes_white": "2024-12-15 17:50:11 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-15 18:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-15 18:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-15 18:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-15 18:02:52 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/oak_wine_rack_big": {
+    "criteria": {
+      "has_oak_planks": "2024-12-15 18:02:52 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/oak_wine_rack_small": {
+    "criteria": {
+      "has_oak_planks": "2024-12-15 18:02:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-15 18:02:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-15 18:26:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-15 18:27:14 +0000"
+    },
+    "done": true
   },
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {

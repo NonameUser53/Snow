@@ -329,18 +329,22 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-15 18:11:27 +0000",
       "minecraft:taiga": "2024-12-14 16:01:13 +0000",
       "minecraft:deep_ocean": "2024-12-14 17:28:34 +0000",
       "minecraft:frozen_river": "2024-12-14 14:52:19 +0000",
+      "minecraft:cherry_grove": "2024-12-15 18:24:18 +0000",
       "minecraft:windswept_hills": "2024-12-14 16:26:57 +0000",
       "minecraft:bamboo_jungle": "2024-12-14 18:06:57 +0000",
       "minecraft:beach": "2024-12-14 16:02:45 +0000",
       "minecraft:dark_forest": "2024-12-14 18:14:00 +0000",
+      "minecraft:mangrove_swamp": "2024-12-15 18:14:57 +0000",
       "minecraft:sparse_jungle": "2024-12-14 18:06:49 +0000",
       "minecraft:lukewarm_ocean": "2024-12-14 17:24:08 +0000",
       "minecraft:river": "2024-12-14 16:17:58 +0000",
       "minecraft:snowy_plains": "2024-12-14 15:39:25 +0000",
       "minecraft:snowy_taiga": "2024-12-14 15:52:35 +0000",
+      "minecraft:dripstone_caves": "2024-12-15 18:21:47 +0000",
       "minecraft:grove": "2024-12-13 19:08:37 +0000",
       "minecraft:swamp": "2024-12-14 16:27:30 +0000",
       "minecraft:forest": "2024-12-14 14:55:54 +0000",
@@ -352,6 +356,7 @@
       "minecraft:snowy_beach": "2024-12-14 14:59:31 +0000",
       "minecraft:windswept_savanna": "2024-12-14 16:43:53 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-14 17:24:23 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-15 18:08:32 +0000",
       "minecraft:meadow": "2024-12-13 18:58:56 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-14 14:51:47 +0000",
       "minecraft:savanna": "2024-12-14 18:45:40 +0000",
@@ -869,6 +874,8 @@
       "rotten_flesh": "2024-12-14 14:52:40 +0000",
       "glow_berries": "2024-12-15 17:27:51 +0000",
       "melon_slice": "2024-12-14 17:15:22 +0000",
+      "golden_carrot": "2024-12-15 18:25:43 +0000",
+      "cod": "2024-12-15 18:20:53 +0000",
       "carrot": "2024-12-14 15:20:04 +0000"
     },
     "done": false
@@ -3813,15 +3820,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-15 18:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 18:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 18:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-15 18:20:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-12-15 17:49:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 18:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 18:19:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
     "criteria": {
       "has_item": "2024-12-15 17:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 18:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-15 18:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 18:19:57 +0000"
     },
     "done": true
   },
@@ -3867,9 +3928,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 18:19:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 18:19:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-15 18:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 18:19:57 +0000"
     },
     "done": true
   },
@@ -3882,6 +3961,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-15 17:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-15 18:04:41 +0000"
     },
     "done": true
   },
@@ -3903,9 +3988,27 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/gold_dust_from_raw": {
+    "criteria": {
+      "has_raw_gold": "2024-12-15 18:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-15 18:04:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-15 18:00:39 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/gold_dust_from_ingot": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 18:19:57 +0000"
     },
     "done": true
   },
@@ -3915,9 +4018,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-15 18:30:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-15 17:54:52 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 18:19:57 +0000"
     },
     "done": true
   },
@@ -3945,6 +4060,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 18:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 18:19:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-15 17:54:52 +0000"
@@ -3957,15 +4084,63 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-15 18:32:57 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "killed_by": "2024-12-15 17:39:32 +0000"
     },
     "done": true
   },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-12-15 18:19:57 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/naturalist/glow_goop": {
     "criteria": {
       "has_glow_berries": "2024-12-15 17:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-15 18:17:03 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/breathalyzer": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-15 18:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-15 18:30:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-15 18:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-12-15 18:03:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-15 18:20:46 +0000"
     },
     "done": true
   },
@@ -4005,6 +4180,18 @@
     },
     "done": true
   },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2024-12-15 18:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 18:19:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-15 17:54:52 +0000"
@@ -4041,6 +4228,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2024-12-15 18:13:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-15 17:34:47 +0000"
@@ -4056,6 +4249,18 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-15 18:00:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2024-12-15 18:13:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2024-12-15 18:13:26 +0000"
     },
     "done": true
   },
@@ -4083,6 +4288,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/decorations/gilded_beads": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 18:19:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-15 17:34:47 +0000"
@@ -4107,15 +4318,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-15 18:20:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-15 18:00:39 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-15 18:09:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-15 18:10:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-15 17:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 18:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-15 18:20:46 +0000"
     },
     "done": true
   },
@@ -4128,6 +4369,18 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-15 18:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-15 18:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 18:19:57 +0000"
     },
     "done": true
   },
