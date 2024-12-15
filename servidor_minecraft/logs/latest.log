@@ -493,3 +493,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [15Dec2024 17:45:10.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Zombie
 [15Dec2024 17:45:10.210] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
 [15Dec2024 17:45:18.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> tp to me
+[15Dec2024 17:45:32.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[15Dec2024 17:45:38.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> FINALLY
+[15Dec2024 17:46:12.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 17.500000, 101.500000, 3680.500000]
+[15Dec2024 17:46:34.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i need more fod
+[15Dec2024 17:47:21.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 164.500000, 64.500000, 3505.500000]
+[15Dec2024 17:47:31.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[15Dec2024 17:47:33.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> gonna get iron
+[15Dec2024 17:47:41.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> oki
+[15Dec2024 17:48:30.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> OOO COYOTE
+[15Dec2024 17:49:14.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> CAN I TAME IT
+[15Dec2024 17:53:47.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[15Dec2024 17:54:37.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru has made the advancement [Who You Gonna Call?]
