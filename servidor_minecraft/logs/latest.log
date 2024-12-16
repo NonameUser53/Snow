@@ -1,19 +1,19 @@
-[15Dec2024 17:15:02.197] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[15Dec2024 17:15:02.203] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[15Dec2024 17:15:12.672] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[15Dec2024 17:15:12.887] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Snow/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[15Dec2024 17:15:13.724] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Snow/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[15Dec2024 17:15:13.746] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Snow/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[15Dec2024 17:15:13.747] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Snow/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[15Dec2024 17:15:13.748] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Snow/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[15Dec2024 17:15:14.333] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 15 dependencies adding them to mods collection
-[15Dec2024 17:15:17.825] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[15Dec2024 17:15:18.118] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[15Dec2024 17:15:18.121] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[15Dec2024 17:15:18.151] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Dec2024 17:15:18.302] [main/WARN] [mixin/]: Reference map 'modonomicon.refmap.json' for modonomicon.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Dec2024 17:15:18.303] [main/WARN] [mixin/]: Reference map 'modonomicon.refmap.json' for modonomicon.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Dec2024 17:15:18.523] [main/INFO] [Puzzles Lib/]: Loading 70 mods:
+[16Dec2024 15:53:48.837] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[16Dec2024 15:53:48.843] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[16Dec2024 15:53:50.896] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[16Dec2024 15:53:50.960] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Snow/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[16Dec2024 15:53:51.437] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Snow/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[16Dec2024 15:53:51.438] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Snow/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Dec2024 15:53:51.439] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Snow/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Dec2024 15:53:51.440] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Snow/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Dec2024 15:53:51.696] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 15 dependencies adding them to mods collection
+[16Dec2024 15:53:54.774] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[16Dec2024 15:53:55.032] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[16Dec2024 15:53:55.033] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[16Dec2024 15:53:55.057] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Dec2024 15:53:55.173] [main/WARN] [mixin/]: Reference map 'modonomicon.refmap.json' for modonomicon.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Dec2024 15:53:55.175] [main/WARN] [mixin/]: Reference map 'modonomicon.refmap.json' for modonomicon.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Dec2024 15:53:55.239] [main/INFO] [Puzzles Lib/]: Loading 70 mods:
 	- alexscaves 1.1.5
 	- alexsmobs 1.22.9
 	- ancient_golems 1.0.3.5
@@ -86,164 +86,164 @@
 	- wom 20.1.8.5.5
 	- xaerominimap 24.4.0
 	- xaeroworldmap 1.39.0
-[15Dec2024 17:15:20.392] [main/WARN] [mixin/]: Error loading class: net/bettercombat/client/collision/TargetFinder (java.lang.ClassNotFoundException: net.bettercombat.client.collision.TargetFinder)
-[15Dec2024 17:15:20.392] [main/WARN] [mixin/]: @Mixin target net.bettercombat.client.collision.TargetFinder was not found justleveling.mixins.json:MixTargetFinder
-[15Dec2024 17:15:20.962] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[15Dec2024 17:15:26.783] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[15Dec2024 17:15:26.783] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[15Dec2024 17:15:30.285] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[15Dec2024 17:15:30.287] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[15Dec2024 17:15:30.287] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[15Dec2024 17:15:30.287] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[15Dec2024 17:15:32.803] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
-[15Dec2024 17:15:32.820] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: IceAndFireCompat
-[15Dec2024 17:15:32.927] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[15Dec2024 17:15:32.928] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[15Dec2024 17:15:32.939] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[15Dec2024 17:15:32.940] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[15Dec2024 17:15:32.944] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[15Dec2024 17:15:32.946] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[15Dec2024 17:15:32.951] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[15Dec2024 17:15:32.952] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[15Dec2024 17:15:33.560] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[15Dec2024 17:15:33.560] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[15Dec2024 17:15:34.159] [modloading-worker-0/INFO] [libIPN/]: [libIPN] libIPN - init in Kotlin
-[15Dec2024 17:15:34.352] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[15Dec2024 17:15:35.749] [modloading-worker-0/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Inventory Profiles Next - init in Kotlin
-[15Dec2024 17:15:36.147] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id brewery:alcohol_sync_request
-[15Dec2024 17:15:36.148] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id brewery:drink_alcohol
-[15Dec2024 17:15:36.371] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[15Dec2024 17:15:36.492] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[15Dec2024 17:15:36.570] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
-[15Dec2024 17:15:37.212] [modloading-worker-0/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
-[15Dec2024 17:15:49.059] [modloading-worker-0/INFO] [com.sky.weaponmaster.WeaponMaster/]: Total varients loaded: 6425544
-[15Dec2024 17:15:49.061] [modloading-worker-0/INFO] [com.sky.weaponmaster.WeaponMaster/]: Total varients loaded (inc. passives + abilities): 3675411168
-[15Dec2024 17:15:53.798] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_villager] was not realized!
-[15Dec2024 17:15:53.798] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:grim_reaper] was not realized!
-[15Dec2024 17:15:53.798] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
-[15Dec2024 17:15:53.798] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_zombie_villager] was not realized!
-[15Dec2024 17:15:53.799] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_zombie_villager] was not realized!
-[15Dec2024 17:15:53.799] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_villager] was not realized!
-[15Dec2024 17:15:53.799] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
-[15Dec2024 17:15:53.799] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
-[15Dec2024 17:15:54.012] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
-[15Dec2024 17:15:54.012] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
-[15Dec2024 17:15:54.012] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
-[15Dec2024 17:15:54.013] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
-[15Dec2024 17:15:54.014] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
-[15Dec2024 17:15:54.014] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
-[15Dec2024 17:15:54.017] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
-[15Dec2024 17:15:54.018] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
-[15Dec2024 17:15:54.018] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
-[15Dec2024 17:15:54.021] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
-[15Dec2024 17:15:54.101] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
-[15Dec2024 17:15:54.865] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.becks.uniquedungeons.common.entities.city_snow_mobs.catapults.CitySnowCatapult from class com.becks.uniquedungeons.common.entities.city_snow_mobs.big_bob.CitySnowBigBob
-[15Dec2024 17:15:54.866] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.becks.uniquedungeons.common.entities.city_snow_mobs.catapults.CitySnowCatapult from class com.becks.uniquedungeons.common.entities.city_snow_mobs.big_bob.CitySnowBigBob
-[15Dec2024 17:15:54.980] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.981] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.981] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.981] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.981] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.982] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.982] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.982] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[15Dec2024 17:15:54.983] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.984] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.984] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.984] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.985] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.985] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.985] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.985] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.986] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.986] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.986] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.986] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[15Dec2024 17:15:54.987] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.991] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.991] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[15Dec2024 17:15:54.991] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.991] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[15Dec2024 17:15:54.992] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[15Dec2024 17:15:54.992] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.992] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.992] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.992] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:54.992] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:55.002] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:55.007] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:55.008] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:55.010] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:55.010] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:55.011] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:15:55.012] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
-[15Dec2024 17:15:55.019] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.klikli_dev.occultism.common.entity.spirit.DjinniEntity from class com.klikli_dev.occultism.common.entity.spirit.FoliotEntity
-[15Dec2024 17:15:55.037] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[15Dec2024 17:15:55.037] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[15Dec2024 17:15:55.037] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[15Dec2024 17:15:55.037] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[15Dec2024 17:15:55.037] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[15Dec2024 17:15:55.038] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[15Dec2024 17:15:55.038] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[15Dec2024 17:15:55.038] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[15Dec2024 17:15:55.039] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[15Dec2024 17:15:55.397] [modloading-worker-0/INFO] [com.becks.uniquedungeons.UniqueDungeons/]: HELLO FROM COMMON SETUP
-[15Dec2024 17:15:55.398] [modloading-worker-0/INFO] [com.becks.uniquedungeons.UniqueDungeons/]: DIRT BLOCK >> minecraft:dirt
-[15Dec2024 17:15:55.612] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
-[15Dec2024 17:15:55.813] [modloading-worker-0/INFO] [io.github.jamalam360.rightclickharvest.RightClickHarvestModInit/]: Initialized
-[15Dec2024 17:15:56.022] [modloading-worker-0/INFO] [com.klikli_dev.occultism.Occultism/]: Common setup complete.
-[15Dec2024 17:15:56.109] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
-[15Dec2024 17:15:56.499] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: UP_TO_DATE Current: 1.19.5 Target: null
-[15Dec2024 17:15:56.501] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
-[15Dec2024 17:15:56.521] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: OUTDATED Current: 1.2.48 Target: 1.2.49
-[15Dec2024 17:15:56.521] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[15Dec2024 17:15:56.541] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[15Dec2024 17:15:56.541] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[15Dec2024 17:15:56.654] [main/INFO] [com.klikli_dev.occultism.Occultism/]: Registered compostable Items
-[15Dec2024 17:15:56.665] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[15Dec2024 17:15:56.665] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[15Dec2024 17:15:56.666] [modloading-worker-0/INFO] [com.klikli_dev.occultism.Occultism/]: Dedicated server setup complete.
-[15Dec2024 17:15:56.666] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[15Dec2024 17:15:56.666] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[15Dec2024 17:15:56.686] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[15Dec2024 17:15:56.783] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[15Dec2024 17:15:56.801] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[15Dec2024 17:15:56.806] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[15Dec2024 17:15:56.808] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[15Dec2024 17:15:56.809] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[15Dec2024 17:15:57.146] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.5 Target: 1.20.1-1.4.8
-[15Dec2024 17:15:57.147] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[15Dec2024 17:15:57.327] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[15Dec2024 17:15:57.327] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[15Dec2024 17:15:57.466] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[15Dec2024 17:15:57.467] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[15Dec2024 17:15:57.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.10 Target: 1.9.12
-[15Dec2024 17:15:57.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[15Dec2024 17:15:57.681] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[15Dec2024 17:15:57.681] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[15Dec2024 17:15:57.700] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.8.6 Target: null
-[15Dec2024 17:15:57.701] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [occultism] Starting version check at https://raw.githubusercontent.com/klikli-dev/occultism/meta/updates.json
-[15Dec2024 17:15:57.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [occultism] Found status: BETA Current: 1.140.2 Target: null
-[15Dec2024 17:15:57.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[15Dec2024 17:15:57.721] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
-[15Dec2024 17:15:57.721] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
-[15Dec2024 17:15:57.792] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
-[15Dec2024 17:16:01.390] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15Dec2024 17:16:05.317] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Snow/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23229!/assets/.mcassetsroot' uses unexpected schema
-[15Dec2024 17:16:05.318] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Snow/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23229!/data/.mcassetsroot' uses unexpected schema
-[15Dec2024 17:16:07.622] [main/INFO] [bountiful/]: Adding serverside commands..
-[15Dec2024 17:16:07.754] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[15Dec2024 17:16:08.024] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.8.6.jar
-[15Dec2024 17:16:08.161] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag vinery:white_grape as it is missing following references: vinery:savanna_white_grape (from letsdo-vinery-forge-1.4.32.jar), 
+[16Dec2024 15:53:56.479] [main/WARN] [mixin/]: Error loading class: net/bettercombat/client/collision/TargetFinder (java.lang.ClassNotFoundException: net.bettercombat.client.collision.TargetFinder)
+[16Dec2024 15:53:56.479] [main/WARN] [mixin/]: @Mixin target net.bettercombat.client.collision.TargetFinder was not found justleveling.mixins.json:MixTargetFinder
+[16Dec2024 15:53:57.110] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[16Dec2024 15:54:02.309] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[16Dec2024 15:54:02.310] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[16Dec2024 15:54:06.078] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[16Dec2024 15:54:06.079] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[16Dec2024 15:54:06.079] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[16Dec2024 15:54:06.079] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[16Dec2024 15:54:08.667] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
+[16Dec2024 15:54:08.671] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: IceAndFireCompat
+[16Dec2024 15:54:08.781] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[16Dec2024 15:54:08.793] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[16Dec2024 15:54:08.795] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[16Dec2024 15:54:08.796] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[16Dec2024 15:54:08.797] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[16Dec2024 15:54:08.799] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[16Dec2024 15:54:08.800] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[16Dec2024 15:54:08.801] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[16Dec2024 15:54:09.482] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[16Dec2024 15:54:09.482] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[16Dec2024 15:54:09.870] [modloading-worker-0/INFO] [libIPN/]: [libIPN] libIPN - init in Kotlin
+[16Dec2024 15:54:10.159] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[16Dec2024 15:54:11.676] [modloading-worker-0/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Inventory Profiles Next - init in Kotlin
+[16Dec2024 15:54:12.172] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id brewery:alcohol_sync_request
+[16Dec2024 15:54:12.174] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id brewery:drink_alcohol
+[16Dec2024 15:54:12.645] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[16Dec2024 15:54:12.738] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[16Dec2024 15:54:12.795] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[16Dec2024 15:54:13.297] [modloading-worker-0/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
+[16Dec2024 15:54:29.028] [modloading-worker-0/INFO] [com.sky.weaponmaster.WeaponMaster/]: Total varients loaded: 6425544
+[16Dec2024 15:54:29.029] [modloading-worker-0/INFO] [com.sky.weaponmaster.WeaponMaster/]: Total varients loaded (inc. passives + abilities): 3675411168
+[16Dec2024 15:54:34.275] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[16Dec2024 15:54:34.275] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_zombie_villager] was not realized!
+[16Dec2024 15:54:34.275] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_zombie_villager] was not realized!
+[16Dec2024 15:54:34.276] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[16Dec2024 15:54:34.276] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_villager] was not realized!
+[16Dec2024 15:54:34.276] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
+[16Dec2024 15:54:34.276] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_villager] was not realized!
+[16Dec2024 15:54:34.276] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:grim_reaper] was not realized!
+[16Dec2024 15:54:34.529] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[16Dec2024 15:54:34.530] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[16Dec2024 15:54:34.530] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
+[16Dec2024 15:54:34.531] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[16Dec2024 15:54:34.531] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[16Dec2024 15:54:34.531] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
+[16Dec2024 15:54:34.534] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[16Dec2024 15:54:34.534] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[16Dec2024 15:54:34.534] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
+[16Dec2024 15:54:34.538] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
+[16Dec2024 15:54:34.635] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
+[16Dec2024 15:54:35.319] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.becks.uniquedungeons.common.entities.city_snow_mobs.catapults.CitySnowCatapult from class com.becks.uniquedungeons.common.entities.city_snow_mobs.big_bob.CitySnowBigBob
+[16Dec2024 15:54:35.319] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.becks.uniquedungeons.common.entities.city_snow_mobs.catapults.CitySnowCatapult from class com.becks.uniquedungeons.common.entities.city_snow_mobs.big_bob.CitySnowBigBob
+[16Dec2024 15:54:35.444] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.444] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.444] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.444] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.445] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.445] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.445] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.445] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[16Dec2024 15:54:35.447] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.447] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.447] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.447] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.448] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.448] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.448] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.448] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.448] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.449] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.449] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.449] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[16Dec2024 15:54:35.449] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.453] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.454] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[16Dec2024 15:54:35.454] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.454] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[16Dec2024 15:54:35.454] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[16Dec2024 15:54:35.454] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.455] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.455] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.455] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.455] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.457] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.463] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.463] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.464] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.464] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.465] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:54:35.465] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[16Dec2024 15:54:35.468] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.klikli_dev.occultism.common.entity.spirit.DjinniEntity from class com.klikli_dev.occultism.common.entity.spirit.FoliotEntity
+[16Dec2024 15:54:35.492] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[16Dec2024 15:54:35.493] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[16Dec2024 15:54:35.493] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[16Dec2024 15:54:35.493] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[16Dec2024 15:54:35.493] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[16Dec2024 15:54:35.494] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[16Dec2024 15:54:35.494] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[16Dec2024 15:54:35.494] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[16Dec2024 15:54:35.494] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[16Dec2024 15:54:35.730] [modloading-worker-0/INFO] [com.becks.uniquedungeons.UniqueDungeons/]: HELLO FROM COMMON SETUP
+[16Dec2024 15:54:35.731] [modloading-worker-0/INFO] [com.becks.uniquedungeons.UniqueDungeons/]: DIRT BLOCK >> minecraft:dirt
+[16Dec2024 15:54:36.000] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
+[16Dec2024 15:54:36.220] [modloading-worker-0/INFO] [io.github.jamalam360.rightclickharvest.RightClickHarvestModInit/]: Initialized
+[16Dec2024 15:54:36.501] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
+[16Dec2024 15:54:36.572] [modloading-worker-0/INFO] [com.klikli_dev.occultism.Occultism/]: Common setup complete.
+[16Dec2024 15:54:36.980] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: UP_TO_DATE Current: 1.19.5 Target: null
+[16Dec2024 15:54:36.983] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
+[16Dec2024 15:54:37.065] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: OUTDATED Current: 1.2.48 Target: 1.2.49
+[16Dec2024 15:54:37.066] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[16Dec2024 15:54:37.076] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[16Dec2024 15:54:37.076] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[16Dec2024 15:54:37.120] [main/INFO] [com.klikli_dev.occultism.Occultism/]: Registered compostable Items
+[16Dec2024 15:54:37.126] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[16Dec2024 15:54:37.127] [modloading-worker-0/INFO] [com.klikli_dev.occultism.Occultism/]: Dedicated server setup complete.
+[16Dec2024 15:54:37.127] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[16Dec2024 15:54:37.135] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[16Dec2024 15:54:37.136] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[16Dec2024 15:54:37.149] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[16Dec2024 15:54:37.265] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[16Dec2024 15:54:37.291] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[16Dec2024 15:54:37.296] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[16Dec2024 15:54:37.299] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[16Dec2024 15:54:37.301] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[16Dec2024 15:54:37.634] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.5 Target: 1.20.1-1.4.8
+[16Dec2024 15:54:37.635] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[16Dec2024 15:54:37.872] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[16Dec2024 15:54:37.872] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[16Dec2024 15:54:38.020] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[16Dec2024 15:54:38.020] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[16Dec2024 15:54:38.165] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.10 Target: 1.9.12
+[16Dec2024 15:54:38.166] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[16Dec2024 15:54:38.178] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[16Dec2024 15:54:38.178] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[16Dec2024 15:54:38.187] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.8.6 Target: null
+[16Dec2024 15:54:38.187] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [occultism] Starting version check at https://raw.githubusercontent.com/klikli-dev/occultism/meta/updates.json
+[16Dec2024 15:54:38.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [occultism] Found status: BETA Current: 1.140.2 Target: null
+[16Dec2024 15:54:38.199] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[16Dec2024 15:54:38.210] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
+[16Dec2024 15:54:38.210] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[16Dec2024 15:54:38.222] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
+[16Dec2024 15:54:42.268] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16Dec2024 15:54:45.525] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Snow/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23229!/assets/.mcassetsroot' uses unexpected schema
+[16Dec2024 15:54:45.526] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Snow/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23229!/data/.mcassetsroot' uses unexpected schema
+[16Dec2024 15:54:48.299] [main/INFO] [bountiful/]: Adding serverside commands..
+[16Dec2024 15:54:48.463] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[16Dec2024 15:54:48.639] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.8.6.jar
+[16Dec2024 15:54:48.736] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag vinery:white_grape as it is missing following references: vinery:savanna_white_grape (from letsdo-vinery-forge-1.4.32.jar), 
 	vinery:taiga_white_grape (from letsdo-vinery-forge-1.4.32.jar), 
 	vinery:jungle_white_grape (from letsdo-vinery-forge-1.4.32.jar)
-[15Dec2024 17:16:08.168] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag vinery:red_grape as it is missing following references: vinery:savanna_red_grape (from letsdo-vinery-forge-1.4.32.jar), 
+[16Dec2024 15:54:48.736] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag vinery:red_grape as it is missing following references: vinery:savanna_red_grape (from letsdo-vinery-forge-1.4.32.jar), 
 	vinery:taiga_red_grape (from letsdo-vinery-forge-1.4.32.jar), 
 	vinery:jungle_red_grape (from letsdo-vinery-forge-1.4.32.jar)
-[15Dec2024 17:16:09.224] [Worker-Main-1/INFO] [epicfight/]: Register animations from epicfight
-[15Dec2024 17:16:10.111] [Worker-Main-1/INFO] [epicfight/]: Register animations from wom
-[15Dec2024 17:16:12.199] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Datapack tried to redefine minecraft:empty loot table, ignoring
-[15Dec2024 17:16:12.348] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
+[16Dec2024 15:54:49.547] [Worker-Main-1/INFO] [epicfight/]: Register animations from epicfight
+[16Dec2024 15:54:50.320] [Worker-Main-1/INFO] [epicfight/]: Register animations from wom
+[16Dec2024 15:54:52.128] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Datapack tried to redefine minecraft:empty loot table, ignoring
+[16Dec2024 15:54:52.262] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
 com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -279,7 +279,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Dec2024 17:16:12.629] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap
+[16Dec2024 15:54:52.462] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -306,7 +306,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Dec2024 17:16:12.643] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap_alt
+[16Dec2024 15:54:52.472] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap_alt
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23229!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -333,468 +333,88 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Dec2024 17:16:12.676] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 37 recipes
-[15Dec2024 17:16:12.925] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5122 advancements
-[15Dec2024 17:16:13.246] [main/INFO] [bountiful/]: Trying to load unloaded files from: config/bountiful/bounty_pools
-[15Dec2024 17:16:13.250] [main/INFO] [bountiful/]: Trying to load unloaded files from: config/bountiful/bounty_decrees
-[15Dec2024 17:16:13.265] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
-[15Dec2024 17:16:13.274] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[15Dec2024 17:16:16.876] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
-[15Dec2024 17:16:17.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[15Dec2024 17:16:17.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[15Dec2024 17:16:17.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[15Dec2024 17:16:17.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[15Dec2024 17:16:17.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[15Dec2024 17:16:17.338] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[15Dec2024 17:16:17.526] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15Dec2024 17:16:17.526] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[15Dec2024 17:16:17.527] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15Dec2024 17:16:17.527] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[15Dec2024 17:16:17.608] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
-[15Dec2024 17:16:18.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[15Dec2024 17:16:25.922] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.925] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.926] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.926] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.927] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.927] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.928] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.929] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[15Dec2024 17:16:25.929] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.931] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.931] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.933] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.934] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.935] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.936] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.936] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.936] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.937] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.938] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.938] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[15Dec2024 17:16:25.938] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.939] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.940] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[15Dec2024 17:16:25.942] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.944] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[15Dec2024 17:16:25.947] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[15Dec2024 17:16:25.947] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.947] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.948] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.948] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.948] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.948] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.949] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.949] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.950] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.950] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:25.950] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[15Dec2024 17:16:26.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[15Dec2024 17:16:26.405] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Dec2024 17:16:26.894] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Dec2024 17:16:27.908] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[15Dec2024 17:16:27.914] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[15Dec2024 17:16:28.453] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[15Dec2024 17:16:28.797] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2410 ms
-[15Dec2024 17:16:28.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.221s)! For help, type "help"
-[15Dec2024 17:16:28.906] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[15Dec2024 17:16:28.921] [Server thread/INFO] [com.becks.uniquedungeons.UniqueDungeons/]: HELLO from server starting
-[15Dec2024 17:16:28.926] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: plains
-[15Dec2024 17:16:28.928] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: savanna
-[15Dec2024 17:16:28.929] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: snowy
-[15Dec2024 17:16:28.929] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: taiga
-[15Dec2024 17:16:28.930] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: desert
-[15Dec2024 17:16:28.933] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
-[15Dec2024 17:16:29.002] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[15Dec2024 17:16:29.002] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[15Dec2024 17:16:29.002] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
-[15Dec2024 17:16:29.035] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
-[15Dec2024 17:16:29.036] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
-[15Dec2024 17:16:29.036] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
-[15Dec2024 17:16:29.037] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
-[15Dec2024 17:16:54.302] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.99.124.45:54948] logged in with entity id 975 at (146.69999998807907, 9.875, 3609.699999988079)
-[15Dec2024 17:16:54.322] [Server thread/INFO] [Modonomicon/]: Building books ...
-[15Dec2024 17:16:54.328] [Server thread/INFO] [Modonomicon/]: Books built.
-[15Dec2024 17:16:54.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
-[15Dec2024 17:16:54.736] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
-[15Dec2024 17:16:54.738] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
-[15Dec2024 17:16:58.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3822ms or 76 ticks behind
-[15Dec2024 17:20:58.912] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rinnmaru[/100.103.213.52:58231] logged in with entity id 1585 at (145.0333780097159, 12.0, 3607.207960342547)
-[15Dec2024 17:20:58.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru joined the game
-[15Dec2024 17:20:59.022] [Server thread/INFO] [Jade/]: Syncing config to Rinnmaru (26184ce9-4d9d-3db9-b5c1-edfa69a99f59)
-[15Dec2024 17:21:49.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> see baby
-[15Dec2024 17:21:53.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ;w;
-[15Dec2024 17:21:54.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> it worked owo
-[15Dec2024 17:22:04.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> im sorry im like this
-[15Dec2024 17:22:10.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> is oki
-[15Dec2024 17:23:08.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Rinnmaru
-[15Dec2024 17:23:08.486] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
-[15Dec2024 17:23:12.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> AA SORRY
-[15Dec2024 17:23:14.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> bruh
-[15Dec2024 17:26:15.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru has made the advancement [Cover Me with Diamonds]
-[15Dec2024 17:26:18.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Cover Me with Diamonds]
-[15Dec2024 17:26:33.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> WAT WAS THAT SCROLL
-[15Dec2024 17:26:39.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> heart attack
-[15Dec2024 17:26:47.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> OOOOOOOOOOOOOOOOOO
-[15Dec2024 17:26:55.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> cast it
-[15Dec2024 17:27:08.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> uh it will only affect me
-[15Dec2024 17:27:13.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> oh-
-[15Dec2024 17:28:51.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> ur so cool-
-[15Dec2024 17:30:24.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> walls are my greatest enemy
-[15Dec2024 17:30:58.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> MISS
-[15Dec2024 17:31:03.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> :D
-[15Dec2024 17:31:05.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> DRAGONS BREATH
-[15Dec2024 17:31:12.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> HUH WHERE GIVE
-[15Dec2024 17:31:33.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> give bookie
-[15Dec2024 17:31:35.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> IS THAT A SPELL
-[15Dec2024 17:31:41.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ye
-[15Dec2024 17:31:42.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> wait maybe u should have it ;w;
-[15Dec2024 17:31:47.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> oh
-[15Dec2024 17:31:49.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> oki
-[15Dec2024 17:31:53.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> u are
-[15Dec2024 17:31:55.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> de dragon
-[15Dec2024 17:32:11.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> awww
-[15Dec2024 17:32:25.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> THAT OIS SO PRETTY ASDASD
-[15Dec2024 17:32:29.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> heh
-[15Dec2024 17:33:39.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> actually i think we can improve our boos
-[15Dec2024 17:33:41.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> books
-[15Dec2024 17:33:48.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> really?
-[15Dec2024 17:34:19.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i hate them-
-[15Dec2024 17:34:40.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> use dis
-[15Dec2024 17:34:59.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> keep pressed
-[15Dec2024 17:35:14.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> HUH
-[15Dec2024 17:35:28.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> idk-
-[15Dec2024 17:35:30.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> what does it do
-[15Dec2024 17:35:37.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> should have spawned a polar bear
-[15Dec2024 17:35:55.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> it said it was used on me-
-[15Dec2024 17:37:03.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> anyway
-[15Dec2024 17:37:06.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> lets go backie
-[15Dec2024 17:37:09.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> oki owo
-[15Dec2024 17:37:12.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 65.500000, 77.500000, 3654.500000]
-[15Dec2024 17:37:15.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> tp to me
-[15Dec2024 17:37:18.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
-[15Dec2024 17:37:48.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> ah sunset
-[15Dec2024 17:38:25.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> we need iron-
-[15Dec2024 17:38:29.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> this isn't our house
-[15Dec2024 17:39:32.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [We do a little trolling...]
-[15Dec2024 17:40:40.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> my god-
-[15Dec2024 17:40:49.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> how dare they touch my master
-[15Dec2024 17:41:15.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 64.500000, 92.500000, 3641.500000]
-[15Dec2024 17:41:33.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
-[15Dec2024 17:41:38.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> where is homee
-[15Dec2024 17:41:42.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> uuuuh
-[15Dec2024 17:42:06.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
-[15Dec2024 17:42:14.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i think it was green
-[15Dec2024 17:42:23.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> on a cliff
-[15Dec2024 17:44:12.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> did they change or something-
-[15Dec2024 17:44:18.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> nu-
-[15Dec2024 17:44:26.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> then where-
-[15Dec2024 17:44:34.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
-[15Dec2024 17:45:10.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Zombie
-[15Dec2024 17:45:10.210] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
-[15Dec2024 17:45:18.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> tp to me
-[15Dec2024 17:45:32.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
-[15Dec2024 17:45:38.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> FINALLY
-[15Dec2024 17:46:12.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 17.500000, 101.500000, 3680.500000]
-[15Dec2024 17:46:34.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i need more fod
-[15Dec2024 17:47:21.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 164.500000, 64.500000, 3505.500000]
-[15Dec2024 17:47:31.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
-[15Dec2024 17:47:33.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> gonna get iron
-[15Dec2024 17:47:41.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> oki
-[15Dec2024 17:48:30.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> OOO COYOTE
-[15Dec2024 17:49:14.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> CAN I TAME IT
-[15Dec2024 17:53:47.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[15Dec2024 17:54:37.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru has made the advancement [Who You Gonna Call?]
-[15Dec2024 17:55:32.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 fell from a high place
-[15Dec2024 17:55:33.033] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
-[15Dec2024 17:55:34.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[15Dec2024 17:55:37.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> NOOO JUAN
-[15Dec2024 17:55:43.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> bruh
-[15Dec2024 17:56:05.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> oh shit it's sunset-
-[15Dec2024 17:56:11.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
-[15Dec2024 17:56:16.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> oh mermaids
-[15Dec2024 17:56:21.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> NOOO
-[15Dec2024 17:56:27.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> HUH-
-[15Dec2024 17:56:41.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> JUANH
-[15Dec2024 17:56:41.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> they will kill u
-[15Dec2024 17:56:48.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> HOW DO I GO BACK TO SPAWNPOINT
-[15Dec2024 17:56:53.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> why
-[15Dec2024 17:57:04.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> IT'S NIGHT
-[15Dec2024 17:57:22.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> AND THERE'S HUGE RED WATER WORM TRYING TO GET ON SHORE7
-[15Dec2024 17:57:32.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> BRUH
-[15Dec2024 17:57:34.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> uh
-[15Dec2024 17:57:38.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> right click on map
-[15Dec2024 17:57:45.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> and choose teleport here
-[15Dec2024 17:58:06.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to 66.500000, 91.500000, 3644.500000]
-[15Dec2024 17:58:18.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i hope this is our city
-[15Dec2024 17:58:51.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i brought 30 grapes
-[15Dec2024 17:59:03.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> good girl
-[15Dec2024 17:59:17.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i put 15 in a chest for u
-[15Dec2024 17:59:36.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> FUCK\'
-[15Dec2024 17:59:40.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> awww
-[15Dec2024 17:59:40.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> NOOO
-[15Dec2024 17:59:43.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru suffocated in a wall
-[15Dec2024 17:59:43.033] [Server thread/INFO] [tombstone/]: The player Rinnmaru has successfully been saved
-[15Dec2024 17:59:43.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> AAAA
-[15Dec2024 17:59:43.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> huh
-[15Dec2024 17:59:51.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> MISS XD
-[15Dec2024 18:00:04.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> WHY
-[15Dec2024 18:00:22.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i wanna find a horsie
-[15Dec2024 18:00:53.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> try to
-[15Dec2024 18:01:02.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> in the morning
-[15Dec2024 18:01:11.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> sure
-[15Dec2024 18:01:29.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i have gravedust
-[15Dec2024 18:01:33.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> what is it for
-[15Dec2024 18:01:37.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> idk
-[15Dec2024 18:01:42.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> is for the nigromancer mod
-[15Dec2024 18:01:51.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> OOOOOOOOOOOOOOOHOHOHOHOH
-[15Dec2024 18:02:35.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i wanna pput flowers\
-[15Dec2024 18:03:36.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Suit Up]
-[15Dec2024 18:03:49.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> O
-[15Dec2024 18:04:05.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i'm gonna make a dragon staff
-[15Dec2024 18:04:18.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru has made the advancement [Dragon Commander]
-[15Dec2024 18:04:32.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> what does it do-
-[15Dec2024 18:04:32.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ohhh
-[15Dec2024 18:04:57.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> can i command dragons now
-[15Dec2024 18:05:57.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> OOOOOOOO
-[15Dec2024 18:06:05.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> HUH
-[15Dec2024 18:06:09.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i need flowers]
-[15Dec2024 18:06:13.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> a lot
-[15Dec2024 18:06:26.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 547.500000, 69.500000, 3427.500000]
-[15Dec2024 18:06:28.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> and a dragon-
-[15Dec2024 18:06:33.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 549.500000, 69.500000, 3442.500000]
-[15Dec2024 18:06:40.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> why
-[15Dec2024 18:06:52.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> to see if i can command it
-[15Dec2024 18:07:06.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 72.500000, 90.500000, 3900.500000]
-[15Dec2024 18:07:07.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> shit it looks like it's gonna rain
-[15Dec2024 18:07:21.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> huh
-[15Dec2024 18:07:30.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 177.500000, 63.500000, 3918.500000]
-[15Dec2024 18:07:34.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> is dark outside
-[15Dec2024 18:07:47.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i was gonna pick flowers in peace :(
-[15Dec2024 18:08:32.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 105.500000, 77.500000, 4068.500000]
-[15Dec2024 18:08:53.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 123.500000, 81.500000, 4099.500000]
-[15Dec2024 18:09:05.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[15Dec2024 18:09:29.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to 57.500000, 95.500000, 3718.500000]
-[15Dec2024 18:09:39.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> yeah ot's raining
-[15Dec2024 18:10:19.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> ignore what's gonna happen
-[15Dec2024 18:10:45.100] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Venera'/24695, l='ServerLevel[world]', x=17.60, y=88.54, z=3676.53] died, message: 'Venera was struck by Rinnmaru's shooting stars'
-[15Dec2024 18:10:45.104] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Venera'/24695, l='ServerLevel[world]', x=17.60, y=88.54, z=3676.53] died: Venera was struck by Rinnmaru's shooting stars
-[15Dec2024 18:10:52.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> :D
-[15Dec2024 18:10:59.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> no one will know
-[15Dec2024 18:11:09.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> huh
-[15Dec2024 18:11:16.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> nothing nothing]
-[15Dec2024 18:11:21.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> mhm
-[15Dec2024 18:11:23.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i totally didn't do anything uwu
-[15Dec2024 18:11:27.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -41.500000, 127.500000, 4156.500000]
-[15Dec2024 18:11:45.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -154.500000, 82.500000, 4279.500000]
-[15Dec2024 18:11:51.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> saY
-[15Dec2024 18:12:08.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i may or may not have blocked the door
-[15Dec2024 18:12:19.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> and violently killed a coughing woman
-[15Dec2024 18:12:27.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[15Dec2024 18:12:33.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> LMAO MISSS
-[15Dec2024 18:12:42.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> can you blame me
-[15Dec2024 18:12:53.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> the only bitch that can be in this house is me\
-[15Dec2024 18:13:04.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -232.500000, 83.500000, 4490.500000]
-[15Dec2024 18:13:22.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -176.500000, 106.500000, 4510.500000]
-[15Dec2024 18:13:28.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -249.500000, 88.500000, 4459.500000]
-[15Dec2024 18:13:28.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 hit the ground too hard whilst trying to escape Lightning Dragon
-[15Dec2024 18:13:28.766] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
-[15Dec2024 18:13:35.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> AAAAA
-[15Dec2024 18:13:37.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> WAIT U FOUND DRAGON
-[15Dec2024 18:13:51.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> STOP
-[15Dec2024 18:14:06.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> TAKE THE STAFF NEXT TIME
-[15Dec2024 18:14:34.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> nu i thimk is for the baby ones
-[15Dec2024 18:14:40.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> :(
-[15Dec2024 18:14:48.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> steal the baby-
-[15Dec2024 18:14:56.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -100.500000, 108.500000, 4618.500000]
-[15Dec2024 18:15:08.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -249.500000, 133.500000, 4598.500000]
-[15Dec2024 18:15:30.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -346.500000, 125.500000, 4684.500000]
-[15Dec2024 18:16:03.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[15Dec2024 18:16:24.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6260ms or 125 ticks behind
-[15Dec2024 18:17:49.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -506.500000, 63.500000, 4636.500000]
-[15Dec2024 18:18:23.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[15Dec2024 18:19:57.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> noo why can u only tame babies
-[15Dec2024 18:20:33.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -421.500000, 63.500000, 4754.500000]
-[15Dec2024 18:21:05.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -650.500000, 90.500000, 4710.500000]
-[15Dec2024 18:21:05.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru has made the advancement [An Ear-Shattering Roar]
-[15Dec2024 18:21:12.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> what if i...
-[15Dec2024 18:21:20.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> mm?
-[15Dec2024 18:21:30.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> nothing happened
-[15Dec2024 18:21:32.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> whyyy
-[15Dec2024 18:21:34.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -607.500000, 105.500000, 4853.500000]
-[15Dec2024 18:21:46.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -684.500000, 61.500000, 4948.500000]
-[15Dec2024 18:22:00.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -790.500000, 87.500000, 4788.500000]
-[15Dec2024 18:22:03.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i thought i could summon dragons :(
-[15Dec2024 18:22:15.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> nu
-[15Dec2024 18:22:17.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> im sowwy
-[15Dec2024 18:22:25.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -907.500000, 81.500000, 4845.500000]
-[15Dec2024 18:22:58.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -957.500000, 71.500000, 4794.500000]
-[15Dec2024 18:23:12.562] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[15Dec2024 18:23:12.563] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[15Dec2024 18:23:18.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1091.500000, 64.500000, 4776.500000]
-[15Dec2024 18:23:53.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1221.500000, 113.500000, 4885.500000]
-[15Dec2024 18:24:06.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1175.500000, 118.500000, 4964.500000]
-[15Dec2024 18:24:17.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1240.500000, 107.500000, 5003.500000]
-[15Dec2024 18:24:27.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> OH
-[15Dec2024 18:24:30.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> uh-
-[15Dec2024 18:24:32.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> sakura...
-[15Dec2024 18:24:34.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> HUH
-[15Dec2024 18:24:37.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> WHEEEEEEEEER
-[15Dec2024 18:24:41.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
-[15Dec2024 18:24:46.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru has made the advancement [Fruits of the Field]
-[15Dec2024 18:24:48.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> OMGGG
-[15Dec2024 18:24:54.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> also come here
-[15Dec2024 18:25:07.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> AWWWWW
-[15Dec2024 18:25:08.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> owo
-[15Dec2024 18:25:09.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> BABYYYYY
-[15Dec2024 18:25:11.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> I LOVE U
-[15Dec2024 18:25:13.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> thanks
-[15Dec2024 18:25:16.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> i love it ;w;
-[15Dec2024 18:25:44.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> ;;;w;;;
-[15Dec2024 18:25:49.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i love u too
-[15Dec2024 18:26:05.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> oh also
-[15Dec2024 18:26:20.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> for ut future horsie
-[15Dec2024 18:26:25.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> HOSIIE
-[15Dec2024 18:26:30.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> THANK
-[15Dec2024 18:26:38.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> oh and
-[15Dec2024 18:26:40.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> ah i wanna live here aosdjnads
-[15Dec2024 18:26:50.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> wear dat
-[15Dec2024 18:26:59.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> YAYAYA
-[15Dec2024 18:27:07.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> mwah
-[15Dec2024 18:27:14.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru has made the advancement [Suit Up]
-[15Dec2024 18:27:36.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> so u wanna do housie here?
-[15Dec2024 18:27:46.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1243.500000, 72.500000, 5103.500000]
-[15Dec2024 18:27:47.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> ye ;;w;;
-[15Dec2024 18:27:52.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> sure
-[15Dec2024 18:28:02.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1398.500000, 64.500000, 5122.500000]
-[15Dec2024 18:28:17.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1528.500000, 63.500000, 5082.500000]
-[15Dec2024 18:28:55.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1588.500000, 67.500000, 4941.500000]
-[15Dec2024 18:29:17.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1672.500000, 78.500000, 4989.500000]
-[15Dec2024 18:31:03.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1766.500000, 64.500000, 5140.500000]
-[15Dec2024 18:31:11.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> i gotta eat
-[15Dec2024 18:31:16.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1829.500000, 68.500000, 5222.500000]
-[15Dec2024 18:31:20.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> oki
-[15Dec2024 18:31:31.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> u can continue on housie while im back
-[15Dec2024 18:31:42.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> if u want to continue anyway
-[15Dec2024 18:31:47.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1721.500000, 74.500000, 5331.500000]
-[15Dec2024 18:31:52.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i hope i won't die asidasd
-[15Dec2024 18:31:54.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1772.500000, 65.500000, 5365.500000]
-[15Dec2024 18:32:04.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1636.500000, 83.500000, 5328.500000]
-[15Dec2024 18:32:17.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1612.500000, 81.500000, 5426.500000]
-[15Dec2024 18:33:28.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Set the time to 1000]
-[15Dec2024 18:34:00.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1513.500000, 63.500000, 5491.500000]
-[15Dec2024 18:34:04.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1609.500000, 64.500000, 5589.500000]
-[15Dec2024 18:34:15.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> hihi?
-[15Dec2024 18:34:25.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1593.500000, 66.500000, 5689.500000]
-[15Dec2024 18:35:14.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> hi?
-[15Dec2024 18:35:18.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> ello
-[15Dec2024 18:35:24.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> so?
-[15Dec2024 18:35:32.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i will try to build
-[15Dec2024 18:35:39.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ;w; sure
-[15Dec2024 18:35:45.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> i will try to be back quickly
-[15Dec2024 18:35:52.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> oki
-[15Dec2024 18:35:53.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Disconnected
-[15Dec2024 18:35:53.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
-[15Dec2024 18:42:41.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Set the time to 1000]
-[15Dec2024 18:48:38.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Set the time to 1000]
-[15Dec2024 18:51:10.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Set own game mode to Creative Mode]
-[15Dec2024 18:51:18.544] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.99.124.45:57887] logged in with entity id 78816 at (-1526.699999988079, 64.1875, 5761.1867487946365)
-[15Dec2024 18:51:18.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
-[15Dec2024 18:51:18.615] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
-[15Dec2024 18:51:25.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> :)
-[15Dec2024 18:51:39.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> BABY
-[15Dec2024 18:51:42.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> back :w:
-[15Dec2024 18:51:48.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1501.500000, 71.500000, 5927.500000]
-[15Dec2024 18:51:49.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> I'm definitely not cheating
-[15Dec2024 18:52:16.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1511.500000, 68.500000, 6055.500000]
-[15Dec2024 18:52:32.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> mhm
-[15Dec2024 18:52:35.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> wot fif u fo
-[15Dec2024 18:52:37.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> do
-[15Dec2024 18:52:44.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> me?
-[15Dec2024 18:52:45.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Rinnmaru]
-[15Dec2024 18:52:47.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i would
-[15Dec2024 18:52:49.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> never
-[15Dec2024 18:52:56.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> MIIIISSSS
-[15Dec2024 18:53:00.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> LMFAOOO
-[15Dec2024 18:53:05.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i may or may not
-[15Dec2024 18:53:14.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> have fallen into a hole full of zombies
-[15Dec2024 18:53:18.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> were those bees there-...
-[15Dec2024 18:53:18.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> and almost died hah-
-[15Dec2024 18:53:22.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> YES
-[15Dec2024 18:53:31.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> das why i wan a house somewhere here
-[15Dec2024 18:53:34.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> fineee
-[15Dec2024 18:53:35.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> awww
-[15Dec2024 18:53:36.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> sure
-[15Dec2024 18:53:51.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> im gonna improve our bookies
-[15Dec2024 18:54:09.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> oki owo
-[15Dec2024 19:00:37.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> misss
-[15Dec2024 19:00:40.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> come here
-[15Dec2024 19:00:43.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> HUH
-[15Dec2024 19:00:59.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> can i go back to house tho?
-[15Dec2024 19:01:14.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> im here yeah
-[15Dec2024 19:01:18.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> oki
-[15Dec2024 19:01:23.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
-[15Dec2024 19:01:27.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> give me ur bookies
-[15Dec2024 19:01:32.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> im sorry
-[15Dec2024 19:01:37.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> heh?
-[15Dec2024 19:01:40.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> nu is oki
-[15Dec2024 19:02:02.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> give bookie
-[15Dec2024 19:03:15.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> here
-[15Dec2024 19:03:41.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> u now have another spell
-[15Dec2024 19:03:48.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> YAYYAYYAY7
-[15Dec2024 19:03:53.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> heh
-[15Dec2024 19:04:14.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> WAIT U FOUND ANOTHER?
-[15Dec2024 19:06:48.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> miss
-[15Dec2024 19:06:51.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> i love u so much
-[15Dec2024 19:06:56.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> heh?
-[15Dec2024 19:07:00.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i love u too ;w;
-[15Dec2024 19:07:05.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> heh mwah mwah
-[15Dec2024 19:09:06.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Ice Bucket Challenge]
-[15Dec2024 19:09:11.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ok we need
-[15Dec2024 19:09:15.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> to go to nether-
-[15Dec2024 19:09:28.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> WHY
-[15Dec2024 19:10:09.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> THREE BEES AAAAAA
-[15Dec2024 19:10:13.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> AWWW
-[15Dec2024 19:10:33.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ok i will cheat a bit
-[15Dec2024 19:10:40.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> is kinda lame we cant even use armors-
-[15Dec2024 19:10:43.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> oki
-[15Dec2024 19:11:01.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 200 [Bottle o' Enchanting] to Juan123]
-[15Dec2024 19:11:28.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ok i cant use xp bottles cuz i need xp-
-[15Dec2024 19:11:43.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 1000 experience points to Juan123]
-[15Dec2024 19:11:44.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> STOP
-[15Dec2024 19:11:48.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> CASTING SPELLS
-[15Dec2024 19:11:53.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> HUH????
-[15Dec2024 19:11:59.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> I DIDNT
-[15Dec2024 19:12:00.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i build like 2 blocks
-[15Dec2024 19:12:07.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> and my characters vomits fire
-[15Dec2024 19:12:13.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set own game mode to Creative Mode]
-[15Dec2024 19:12:44.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set own game mode to Survival Mode]
-[15Dec2024 19:12:46.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> im sowwy
-[15Dec2024 19:13:00.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 999999999 experience points to Rinnmaru]
-[15Dec2024 19:13:02.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> eh is oki
-[15Dec2024 19:13:11.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> wait juan i'm in creative-
-[15Dec2024 19:13:22.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 999999999 experience levels to Juan123]
-[15Dec2024 19:13:31.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> WAIT NO I EXAGERATED
-[15Dec2024 19:14:00.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ok it bugged
-[15Dec2024 19:14:28.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set 1 experience levels on Juan123]
-[15Dec2024 19:14:40.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 999999999 experience points to Juan123]
-[15Dec2024 19:16:44.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set 10 experience points on Juan123]
-[15Dec2024 19:17:00.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set 10 experience levels on Juan123]
-[15Dec2024 19:22:38.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ok now im god
-[15Dec2024 19:22:45.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> HUH
-[15Dec2024 19:23:45.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [We Need to Go Deeper]
-[15Dec2024 19:23:47.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3719ms or 74 ticks behind
-[15Dec2024 19:23:53.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> DID U GO TO NETHER
-[15Dec2024 19:24:05.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> maybe
-[15Dec2024 19:24:08.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> WHYYY\
-[15Dec2024 19:24:16.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i love neather u-u
-[15Dec2024 19:24:18.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> need something
-[15Dec2024 19:24:38.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rinnmaru moved too quickly! 8.043002143602052,4.485419739239262,4.46915759393687
-[15Dec2024 19:24:38.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11046ms or 220 ticks behind
-[15Dec2024 19:24:42.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> OH SORRY
-[15Dec2024 19:24:48.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> i will come back later with u den
-[15Dec2024 19:24:54.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> eh is fine
-[15Dec2024 19:25:03.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> wife looks after home after all
-[15Dec2024 19:25:08.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> awwwww
-[15Dec2024 19:25:10.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> babyyyy
-[15Dec2024 19:25:13.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> i adore u
+[16Dec2024 15:54:52.499] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 37 recipes
+[16Dec2024 15:54:52.681] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5122 advancements
+[16Dec2024 15:54:52.797] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[16Dec2024 15:54:52.804] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[16Dec2024 15:54:52.910] [main/INFO] [bountiful/]: Trying to load unloaded files from: config/bountiful/bounty_pools
+[16Dec2024 15:54:52.915] [main/INFO] [bountiful/]: Trying to load unloaded files from: config/bountiful/bounty_decrees
+[16Dec2024 15:54:55.480] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
+[16Dec2024 15:54:55.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[16Dec2024 15:54:55.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[16Dec2024 15:54:55.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[16Dec2024 15:54:55.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[16Dec2024 15:54:55.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[16Dec2024 15:54:55.973] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[16Dec2024 15:54:56.064] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16Dec2024 15:54:56.065] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[16Dec2024 15:54:56.066] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16Dec2024 15:54:56.066] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[16Dec2024 15:54:56.127] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[16Dec2024 15:54:56.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[16Dec2024 15:55:02.247] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.248] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.248] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.249] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.249] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.249] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.250] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.250] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[16Dec2024 15:55:02.250] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.251] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.251] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.251] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.252] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.252] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.252] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.252] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.253] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.253] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.253] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.254] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[16Dec2024 15:55:02.254] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.254] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.254] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[16Dec2024 15:55:02.255] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.255] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[16Dec2024 15:55:02.255] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[16Dec2024 15:55:02.256] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.256] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.256] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.257] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.257] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.257] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.258] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.258] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.258] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.258] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.259] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[16Dec2024 15:55:02.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[16Dec2024 15:55:02.578] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Dec2024 15:55:03.080] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Dec2024 15:55:04.165] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[16Dec2024 15:55:04.177] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[16Dec2024 15:55:04.520] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1962 ms
+[16Dec2024 15:55:04.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.434s)! For help, type "help"
+[16Dec2024 15:55:04.616] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[16Dec2024 15:55:04.631] [Server thread/INFO] [com.becks.uniquedungeons.UniqueDungeons/]: HELLO from server starting
+[16Dec2024 15:55:04.636] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: plains
+[16Dec2024 15:55:04.637] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: savanna
+[16Dec2024 15:55:04.637] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: snowy
+[16Dec2024 15:55:04.638] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: taiga
+[16Dec2024 15:55:04.638] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: desert
+[16Dec2024 15:55:04.642] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[16Dec2024 15:55:04.653] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[16Dec2024 15:55:04.653] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[16Dec2024 15:55:04.654] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
+[16Dec2024 15:55:04.689] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[16Dec2024 15:55:04.690] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[16Dec2024 15:55:04.690] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[16Dec2024 15:55:04.691] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
+[16Dec2024 15:56:48.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rinnmaru[/100.103.213.52:62027] logged in with entity id 974 at (-1251.2297327673718, 124.09442077377118, 5010.712609361045)
+[16Dec2024 15:56:48.841] [Server thread/INFO] [Modonomicon/]: Building books ...
+[16Dec2024 15:56:48.846] [Server thread/INFO] [Modonomicon/]: Books built.
+[16Dec2024 15:56:48.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru joined the game
+[16Dec2024 15:56:49.245] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[16Dec2024 15:56:49.247] [Server thread/INFO] [Jade/]: Syncing config to Rinnmaru (26184ce9-4d9d-3db9-b5c1-edfa69a99f59)
+[16Dec2024 15:56:51.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2736ms or 54 ticks behind
