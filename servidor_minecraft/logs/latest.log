@@ -1187,3 +1187,224 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [19Dec2024 20:32:23.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> how hatch?
 [19Dec2024 20:32:26.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> you gotta do something specific to hatch
 [19Dec2024 20:32:31.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> uh thats ice so uhh
+[19Dec2024 20:32:37.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> ice?
+[19Dec2024 20:32:42.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> i think u put on wateer
+[19Dec2024 20:32:44.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> give
+[19Dec2024 20:32:59.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -7210.500000, 70.500000, -249.500000]
+[19Dec2024 20:33:03.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -7233.500000, -32.500000, -242.500000]
+[19Dec2024 20:33:06.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[19Dec2024 20:33:11.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -7176.500000, -24.500000, -216.500000]
+[19Dec2024 20:33:21.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -7192.500000, -25.500000, -228.500000]
+[19Dec2024 20:33:27.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -7073.500000, -12.500000, -368.500000]
+[19Dec2024 20:33:33.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[19Dec2024 20:33:45.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> wtf is that thing-
+[19Dec2024 20:34:10.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> THERE
+[19Dec2024 20:34:18.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> the parent will be the closest player
+[19Dec2024 20:34:23.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> so just stay close
+[19Dec2024 20:34:26.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> AWW
+[19Dec2024 20:34:29.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> and
+[19Dec2024 20:34:32.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i'll sit hewe
+[19Dec2024 20:34:35.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> use the horn u created
+[19Dec2024 20:34:41.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> to store it
+[19Dec2024 20:34:42.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> oh....
+[19Dec2024 20:34:48.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> it's kinda-
+[19Dec2024 20:34:50.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> at home-
+[19Dec2024 20:35:11.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Prehistoric Elytra]
+[19Dec2024 20:35:16.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> UAYAYAYA
+[19Dec2024 20:35:18.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> wow-
+[19Dec2024 20:35:22.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 was kicked for floating a vehicle too long!
+[19Dec2024 20:35:22.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Flying is not enabled on this server
+[19Dec2024 20:35:22.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[19Dec2024 20:35:23.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> WTFFF
+[19Dec2024 20:35:53.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.99.124.45:58054] logged in with entity id 109854 at (-7046.159791233125, -8.684864439007047, -362.16440430764476)
+[19Dec2024 20:35:53.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
+[19Dec2024 20:35:53.187] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
+[19Dec2024 20:36:06.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 was kicked for floating a vehicle too long!
+[19Dec2024 20:36:06.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Flying is not enabled on this server
+[19Dec2024 20:36:06.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[19Dec2024 20:36:20.250] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.99.124.45:58061] logged in with entity id 109963 at (-7046.159791233125, -18.577684146987814, -362.16440430764476)
+[19Dec2024 20:36:20.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
+[19Dec2024 20:36:20.364] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
+[19Dec2024 20:36:34.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> BRUH WTF
+[19Dec2024 20:36:38.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> WTF LOL
+[19Dec2024 20:37:30.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> i just enabled it
+[19Dec2024 20:37:33.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> i think
+[19Dec2024 20:37:39.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 was kicked for floating a vehicle too long!
+[19Dec2024 20:37:39.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Flying is not enabled on this server
+[19Dec2024 20:37:39.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[19Dec2024 20:37:47.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> HUH
+[19Dec2024 20:37:51.791] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.99.124.45:58097] logged in with entity id 110272 at (-7016.707198125359, -17.133369773640382, -378.6837779049482)
+[19Dec2024 20:37:51.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
+[19Dec2024 20:37:51.893] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
+[19Dec2024 20:38:05.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> no
+[19Dec2024 20:38:38.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> i did change tho
+[19Dec2024 20:38:48.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> just probably need to reset server
+[19Dec2024 20:38:52.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> but lateer
+[19Dec2024 20:39:29.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> oki
+[19Dec2024 20:40:17.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> YAYAYAYA
+[19Dec2024 20:40:27.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> but
+[19Dec2024 20:40:31.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> it's yours-
+[19Dec2024 20:40:35.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> man
+[19Dec2024 20:40:35.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> idk
+[19Dec2024 20:40:39.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> HUH
+[19Dec2024 20:40:43.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> wait
+[19Dec2024 20:40:45.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> nooo snjj
+[19Dec2024 20:40:48.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> ur the owner
+[19Dec2024 20:40:56.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> kill it jfn dsj hw
+[19Dec2024 20:40:59.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> WHY
+[19Dec2024 20:41:03.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to Rinnmaru]
+[19Dec2024 20:41:03.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> I-I can't asdnalds
+[19Dec2024 20:41:13.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> i want it to be yours
+[19Dec2024 20:41:16.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> im sorry
+[19Dec2024 20:41:21.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> USAASDDSADS
+[19Dec2024 20:41:25.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> NUUU
+[19Dec2024 20:41:32.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> poorbebehabfdhbad
+[19Dec2024 20:42:35.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set own game mode to Creative Mode]
+[19Dec2024 20:42:47.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set own game mode to Survival Mode]
+[19Dec2024 20:42:54.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> wot to do
+[19Dec2024 20:42:55.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> just place it on wata
+[19Dec2024 20:42:58.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> yourself
+[19Dec2024 20:43:24.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> YAYAYAY
+[19Dec2024 20:43:24.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> there
+[19Dec2024 20:43:45.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> sorryaydslasd
+[19Dec2024 20:43:50.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i'm having a baby
+[19Dec2024 20:44:31.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> yes
+[19Dec2024 20:44:36.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> in ur belly
+[19Dec2024 20:44:38.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> wetahsdbasd
+[19Dec2024 20:44:44.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> heh good
+[19Dec2024 20:44:50.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> mmm
+[19Dec2024 20:44:59.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> be a good girl and fuck your little wet pussy
+[19Dec2024 20:45:03.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> while ur baby is born
+[19Dec2024 20:45:08.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> cfcbgfxbx
+[19Dec2024 20:45:12.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> mmm~?
+[19Dec2024 20:45:22.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> o-oki
+[19Dec2024 20:47:57.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> OH I GOT IT
+[19Dec2024 20:48:03.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> heh good girl
+[19Dec2024 20:49:35.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> IT HATCHED
+[19Dec2024 20:49:41.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> OMG YAYAYAY
+[19Dec2024 20:49:42.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> u can
+[19Dec2024 20:49:48.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> OMG LOOK
+[19Dec2024 20:49:48.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> put it on ur shoulder
+[19Dec2024 20:49:54.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[19Dec2024 20:50:17.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> AWWW
+[19Dec2024 20:50:20.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> SHES SO PRETTY
+[19Dec2024 20:50:26.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> she
+[19Dec2024 20:50:29.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> is snow asdasd
+[19Dec2024 20:50:35.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> yes
+[19Dec2024 20:50:36.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> also
+[19Dec2024 20:50:43.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> we can make snow look more snowie
+[19Dec2024 20:50:45.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> with dis
+[19Dec2024 20:50:46.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> I WANT IT IN OUR HOUSE
+[19Dec2024 20:50:49.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> huh
+[19Dec2024 20:50:51.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> HOW
+[19Dec2024 20:50:51.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> heh
+[19Dec2024 20:51:06.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -7073.500000, -12.500000, -368.500000]
+[19Dec2024 20:51:17.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[19Dec2024 20:51:18.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> MISS
+[19Dec2024 20:51:28.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> OMG WAT
+[19Dec2024 20:51:31.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> ASDKSJDNADS
+[19Dec2024 20:51:32.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> i hope u like-
+[19Dec2024 20:51:36.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> I DO AAA
+[19Dec2024 20:51:40.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> HEH YAYAYAY
+[19Dec2024 20:51:45.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> CAN WE CHANGE BEBES
+[19Dec2024 20:51:50.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> u want?
+[19Dec2024 20:51:52.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> oki
+[19Dec2024 20:51:57.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> ye
+[19Dec2024 20:52:14.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Gave 1 [Name Tag] to Rinnmaru]
+[19Dec2024 20:52:28.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 2 [Amber Curiosity] to Juan123]
+[19Dec2024 20:52:34.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> look
+[19Dec2024 20:53:03.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> OMGFNAFDD
+[19Dec2024 20:53:15.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> wait is there something more zhongli like
+[19Dec2024 20:53:29.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 1 [Amber Curiosity] to Juan123]
+[19Dec2024 20:53:36.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> look
+[19Dec2024 20:53:42.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> DAMN-
+[19Dec2024 20:53:51.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> is a bit more zhongli like
+[19Dec2024 20:53:52.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> can u make one of his children like dat-
+[19Dec2024 20:54:04.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ye
+[19Dec2024 20:54:12.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> YAYAYA
+[19Dec2024 20:54:15.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> oh wait who
+[19Dec2024 20:54:19.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> raptors?
+[19Dec2024 20:54:25.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> eyey
+[19Dec2024 20:54:41.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> mmm
+[19Dec2024 20:54:50.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> kinda
+[19Dec2024 20:54:55.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> what's dragon food-
+[19Dec2024 20:54:57.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> we gotta kill a boss for this but...
+[19Dec2024 20:55:02.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> a-
+[19Dec2024 20:55:15.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 1 [Tectonic Shard] to Juan123]
+[19Dec2024 20:55:26.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> neo or seb
+[19Dec2024 20:55:38.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> PH BRUH THE EGG
+[19Dec2024 20:55:38.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> whichever. They're both his babas
+[19Dec2024 20:55:41.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> but seb is
+[19Dec2024 20:55:46.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> white and golf
+[19Dec2024 20:55:49.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> DAM
+[19Dec2024 20:55:54.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> owo
+[19Dec2024 20:56:02.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> YAYAYA
+[19Dec2024 20:56:09.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> should
+[19Dec2024 20:56:10.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> neo can change too
+[19Dec2024 20:56:16.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> but u wuld have to change name
+[19Dec2024 20:56:20.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> ye but something different maybe
+[19Dec2024 20:56:23.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> WHYY
+[19Dec2024 20:56:25.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> cuz there is an easter egg if u call them alan
+[19Dec2024 20:57:32.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Gave 1 [Name Tag] to Rinnmaru]
+[19Dec2024 20:58:01.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> WHOA
+[19Dec2024 20:58:04.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ye
+[19Dec2024 20:58:08.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> but...but neo-
+[19Dec2024 20:58:13.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ;w;
+[19Dec2024 20:58:32.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> are there other skins
+[19Dec2024 20:59:47.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> uhh yes
+[19Dec2024 20:59:59.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> but they gotta be elder raptors
+[19Dec2024 21:00:07.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> aw-
+[19Dec2024 21:00:29.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ye sowwy
+[19Dec2024 21:01:02.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> does t-rex dance-
+[19Dec2024 21:01:09.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Gave 1 [Tectonic Shard] to Juan123]
+[19Dec2024 21:01:21.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> yes
+[19Dec2024 21:01:23.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> uwu
+[19Dec2024 21:01:31.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> look
+[19Dec2024 21:01:35.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> which u like more
+[19Dec2024 21:01:56.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> well this is more accurate?-
+[19Dec2024 21:02:00.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> oki
+[19Dec2024 21:02:06.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> LMSO
+[19Dec2024 21:02:07.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> AWW
+[19Dec2024 21:02:57.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> OMG AWWW
+[19Dec2024 21:03:27.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> WHY THEY SO CUTE
+[19Dec2024 21:03:33.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> man love whoever did this mod
+[19Dec2024 21:03:39.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> and this is just part of it
+[19Dec2024 21:03:43.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> damn
+[19Dec2024 21:03:57.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> YEYEYASDDSD
+[19Dec2024 21:04:32.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> HEH
+[19Dec2024 21:05:32.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> i love you
+[19Dec2024 21:05:39.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i love u too ;w;
+[19Dec2024 21:06:01.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> on that note
+[19Dec2024 21:06:06.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i should get off
+[19Dec2024 21:06:13.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> and i'm hornyasdasd
+[19Dec2024 21:06:18.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> sure
+[19Dec2024 21:06:26.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> heh lets fuck that pussy then
+[19Dec2024 21:06:27.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> thank u for tonight ;w;
+[19Dec2024 21:06:31.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> o-okiasdasd
+[19Dec2024 21:06:32.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> nu thank u
+[19Dec2024 21:06:34.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> i adore u
+[19Dec2024 21:06:37.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> heh good girl
+[19Dec2024 21:06:42.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> see u on wasup
+[19Dec2024 21:06:46.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> see u owo
+[19Dec2024 21:06:48.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> maybe sit them
+[19Dec2024 21:06:54.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> nighty night babas
+[19Dec2024 21:08:14.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> hih?
+[19Dec2024 21:08:32.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> she ran away
+[19Dec2024 21:09:32.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> anyway i will disconect
+[19Dec2024 21:09:36.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> oki
+[19Dec2024 21:09:38.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Disconnected
+[19Dec2024 21:09:38.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[19Dec2024 21:09:42.621] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rinnmaru lost connection: Disconnected
+[19Dec2024 21:09:42.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru left the game
+[19Dec2024 21:09:58.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Dec2024 21:09:58.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Dec2024 21:09:58.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Dec2024 21:09:58.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Dec2024 21:09:59.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Dec2024 21:09:59.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Dec2024 21:09:59.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tht:dimension
+[19Dec2024 21:09:59.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Dec2024 21:09:59.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Dec2024 21:09:59.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Dec2024 21:09:59.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[19Dec2024 21:09:59.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
