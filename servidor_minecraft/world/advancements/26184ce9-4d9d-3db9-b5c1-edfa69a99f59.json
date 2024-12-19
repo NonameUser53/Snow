@@ -3788,6 +3788,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2024-12-19 19:11:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2024-12-19 18:05:26 +0000"
