@@ -876,6 +876,7 @@
       "cooked_beef": "2024-12-14 15:42:32 +0000",
       "porkchop": "2024-12-14 15:52:12 +0000",
       "apple": "2024-12-14 17:59:58 +0000",
+      "pumpkin_pie": "2024-12-19 16:52:05 +0000",
       "mutton": "2024-12-14 16:11:31 +0000",
       "bread": "2024-12-14 17:53:35 +0000",
       "golden_apple": "2024-12-16 18:05:44 +0000",
@@ -885,6 +886,7 @@
       "golden_carrot": "2024-12-15 18:25:43 +0000",
       "enchanted_golden_apple": "2024-12-16 16:57:31 +0000",
       "cod": "2024-12-15 18:20:53 +0000",
+      "rabbit_stew": "2024-12-19 16:50:26 +0000",
       "carrot": "2024-12-14 15:20:04 +0000"
     },
     "done": false
@@ -5264,6 +5266,54 @@
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2024-12-16 20:13:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-19 16:50:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-19 16:50:26 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-19 16:47:11 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/diamond_dust": {
+    "criteria": {
+      "has_diamond": "2024-12-19 16:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-12-19 16:55:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-19 16:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-12-19 16:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-19 16:50:26 +0000"
     },
     "done": true
   },
