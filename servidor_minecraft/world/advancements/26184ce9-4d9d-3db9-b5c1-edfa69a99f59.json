@@ -329,6 +329,8 @@
       "minecraft:cherry_grove": "2024-12-15 18:24:41 +0000",
       "minecraft:windswept_hills": "2024-12-14 16:25:32 +0000",
       "minecraft:beach": "2024-12-14 16:03:33 +0000",
+      "minecraft:dark_forest": "2024-12-19 17:55:35 +0000",
+      "minecraft:mangrove_swamp": "2024-12-19 18:05:13 +0000",
       "minecraft:sparse_jungle": "2024-12-15 17:50:04 +0000",
       "minecraft:lukewarm_ocean": "2024-12-14 17:24:09 +0000",
       "minecraft:river": "2024-12-14 16:18:11 +0000",
@@ -336,6 +338,7 @@
       "minecraft:stony_shore": "2024-12-15 17:55:11 +0000",
       "minecraft:snowy_taiga": "2024-12-14 15:52:56 +0000",
       "minecraft:swamp": "2024-12-14 16:27:34 +0000",
+      "minecraft:cold_ocean": "2024-12-19 17:27:32 +0000",
       "minecraft:forest": "2024-12-14 16:01:19 +0000",
       "minecraft:lush_caves": "2024-12-14 18:51:47 +0000",
       "minecraft:frozen_ocean": "2024-12-14 15:12:07 +0000",
@@ -345,6 +348,7 @@
       "minecraft:windswept_savanna": "2024-12-14 16:44:01 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-14 17:24:23 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-15 18:08:40 +0000",
+      "minecraft:deep_dark": "2024-12-19 17:52:31 +0000",
       "minecraft:meadow": "2024-12-13 20:35:45 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-14 14:47:04 +0000",
       "minecraft:plains": "2024-12-15 18:24:46 +0000"
@@ -564,8 +568,10 @@
       "porkchop": "2024-12-14 15:42:35 +0000",
       "apple": "2024-12-14 17:56:44 +0000",
       "bread": "2024-12-14 18:07:26 +0000",
+      "cookie": "2024-12-19 17:29:46 +0000",
       "glow_berries": "2024-12-19 16:50:08 +0000",
       "melon_slice": "2024-12-14 17:23:27 +0000",
+      "mushroom_stew": "2024-12-19 18:05:26 +0000",
       "cod": "2024-12-14 17:50:45 +0000",
       "carrot": "2024-12-14 14:57:24 +0000"
     },
@@ -798,11 +804,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-19 17:47:55 +0000",
       "minecraft:skeleton": "2024-12-14 17:30:45 +0000",
       "minecraft:spider": "2024-12-14 16:10:52 +0000",
       "minecraft:creeper": "2024-12-14 17:32:05 +0000",
+      "minecraft:phantom": "2024-12-19 17:44:18 +0000",
       "minecraft:cave_spider": "2024-12-16 20:03:16 +0000",
       "minecraft:enderman": "2024-12-15 17:40:35 +0000",
+      "minecraft:vex": "2024-12-19 17:45:08 +0000",
       "minecraft:zombie": "2024-12-14 15:42:08 +0000"
     },
     "done": false
@@ -3634,9 +3643,27 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_ferrous_wroughtnaut": {
+  "naturalist:recipes/naturalist/glow_goop": {
     "criteria": {
-      "ferrous_wroughtnaut": "2024-12-19 17:09:27 +0000"
+      "has_glow_berries": "2024-12-19 16:39:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-19 16:43:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-12-19 16:43:25 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/spirit_attuned_gem": {
+    "criteria": {
+      "has_diamond": "2024-12-19 16:43:25 +0000"
     },
     "done": true
   },
@@ -3670,12 +3697,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2024-12-19 16:43:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-19 16:43:26 +0000"
@@ -3688,45 +3709,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2024-12-19 16:51:43 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/naturalist/glow_goop": {
-    "criteria": {
-      "has_glow_berries": "2024-12-19 16:39:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-19 16:43:26 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/combat/silver_bomb": {
-    "criteria": {
-      "has_gunpowder": "2024-12-19 16:51:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/diamond_knife": {
-    "criteria": {
-      "has_diamond": "2024-12-19 16:43:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-19 16:43:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2024-12-19 16:43:55 +0000"
     },
     "done": true
   },
@@ -3748,9 +3739,27 @@
     },
     "done": true
   },
-  "occultism:recipes/spirit_fire/spirit_fire/spirit_attuned_gem": {
+  "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
-      "has_diamond": "2024-12-19 16:43:25 +0000"
+      "has_diamond": "2024-12-19 16:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-19 16:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-19 16:51:43 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/silver_bomb": {
+    "criteria": {
+      "has_gunpowder": "2024-12-19 16:51:43 +0000"
     },
     "done": true
   },
@@ -3760,9 +3769,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_axe": {
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
-      "has_diamond": "2024-12-19 16:43:26 +0000"
+      "ferrous_wroughtnaut": "2024-12-19 17:09:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-19 18:11:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-19 18:05:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-19 18:05:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-12-19 18:20:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 17:44:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-19 18:05:26 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-19 17:45:45 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-19 17:45:45 +0000"
     },
     "done": true
   },
