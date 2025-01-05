@@ -323,6 +323,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-01-05 17:16:24 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-15 18:11:27 +0000",
       "minecraft:taiga": "2024-12-14 16:01:13 +0000",
       "minecraft:deep_ocean": "2024-12-14 17:28:34 +0000",
@@ -6824,15 +6825,63 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-01-05 17:07:57 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_toxic_caves": {
     "criteria": {
       "discover": "2025-01-05 17:05:31 +0000"
     },
     "done": true
   },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-01-05 17:20:08 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/uranium_dust_from_raw": {
+    "criteria": {
+      "has_raw_uranium": "2025-01-05 17:07:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-01-05 17:26:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-01-05 16:47:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2025-01-05 17:11:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-01-05 17:22:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-01-05 17:23:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2025-01-05 17:21:41 +0000"
     },
     "done": true
   },
