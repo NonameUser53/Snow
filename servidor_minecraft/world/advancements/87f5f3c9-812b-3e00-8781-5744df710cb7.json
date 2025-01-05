@@ -6928,11 +6928,41 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-01-05 18:39:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-05 18:39:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-01-05 18:39:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-01-05 18:39:50 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/eat_radiation_foods": {
     "criteria": {
       "green_soylent": "2025-01-05 18:30:42 +0000"
     },
     "done": false
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-01-05 18:39:50 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

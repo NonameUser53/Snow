@@ -4224,6 +4224,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-01-05 18:42:41 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/eat_radiation_foods": {
     "criteria": {
       "slam": "2025-01-05 18:21:06 +0000",
