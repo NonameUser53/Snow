@@ -6928,6 +6928,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "green_soylent": "2025-01-05 18:30:42 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/combat/armor_silver_boots": {
     "criteria": {
       "has_item": "2025-01-05 18:39:50 +0000"
@@ -6952,15 +6958,27 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/eat_radiation_foods": {
-    "criteria": {
-      "green_soylent": "2025-01-05 18:30:42 +0000"
-    },
-    "done": false
-  },
   "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
     "criteria": {
       "has_dragonscales_silver": "2025-01-05 18:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-01-05 19:29:37 +0000"
+    },
+    "done": true
+  },
+  "ancient_golems:the_end_of_the_origin": {
+    "criteria": {
+      "the_end_of_the_origin_0": "2025-01-05 19:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-01-05 19:29:37 +0000"
     },
     "done": true
   },
