@@ -608,3 +608,329 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [05Jan2025 17:41:29.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> aw u can't
 [05Jan2025 17:41:31.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> :(
 [05Jan2025 17:41:33.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ISS
+[05Jan2025 17:41:57.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 fell from a high place
+[05Jan2025 17:41:57.608] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[05Jan2025 17:42:08.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru was slain by Skeleton
+[05Jan2025 17:42:08.558] [Server thread/INFO] [tombstone/]: The player Rinnmaru has successfully been saved
+[05Jan2025 17:42:20.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> bruh
+[05Jan2025 17:42:30.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 5217.500000, -8.500000, 2139.500000]
+[05Jan2025 17:42:32.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> what-
+[05Jan2025 17:42:46.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> WAIT WHY
+[05Jan2025 17:42:54.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> why wot
+[05Jan2025 17:43:02.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i can't teleport to my grave
+[05Jan2025 17:43:10.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> we die too much
+[05Jan2025 17:43:17.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> oh...
+[05Jan2025 17:43:22.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[05Jan2025 17:43:23.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> use map
+[05Jan2025 17:44:26.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to 5212.500000, 18.500000, 2127.500000]
+[05Jan2025 17:44:28.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Applied effect Night Vision to 2 targets]
+[05Jan2025 17:44:29.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru was slain by Skeleton
+[05Jan2025 17:44:29.341] [Server thread/INFO] [tombstone/]: The player Rinnmaru has successfully been saved
+[05Jan2025 17:44:37.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> omg i hope ur family dies
+[05Jan2025 17:44:45.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[05Jan2025 17:44:56.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> oh no-
+[05Jan2025 17:44:59.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> use map
+[05Jan2025 17:44:59.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> yeah
+[05Jan2025 17:45:08.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> they tpd with u-
+[05Jan2025 17:45:11.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> no i probably lost all my stuff
+[05Jan2025 17:45:16.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> why? no
+[05Jan2025 17:45:21.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> why
+[05Jan2025 17:45:25.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to 5209.500000, 18.500000, 2128.500000]
+[05Jan2025 17:45:39.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> what did u do
+[05Jan2025 17:45:43.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 4971.500000, 47.500000, 2073.500000]
+[05Jan2025 17:45:48.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 5105.500000, -8.500000, 2130.500000]
+[05Jan2025 17:46:05.719] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DeerFamiliarEntity['Potato owo'/24458, l='ServerLevel[world]', x=5216.51, y=19.00, z=2129.51] died: Potato owo was slain by Rinnmaru
+[05Jan2025 17:46:16.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[05Jan2025 17:46:22.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> see
+[05Jan2025 17:46:23.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> Potato died-
+[05Jan2025 17:46:33.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> oh god
+[05Jan2025 17:46:41.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> did it give u a gem?
+[05Jan2025 17:47:01.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> yeh-
+[05Jan2025 17:47:06.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> really?
+[05Jan2025 17:47:07.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> good
+[05Jan2025 17:47:09.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[05Jan2025 17:47:12.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> we can bring him back
+[05Jan2025 17:47:24.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> ples aksjdnlakdjs
+[05Jan2025 17:47:31.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> we will
+[05Jan2025 17:48:37.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> we can do a raygun-
+[05Jan2025 17:48:39.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i will kill all the goddamn skeletons
+[05Jan2025 17:48:39.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ray
+[05Jan2025 17:48:47.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> yes and kill skeletons with it
+[05Jan2025 17:48:56.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i wanna commit arson
+[05Jan2025 17:50:22.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 5276.500000, -19.500000, 2210.500000]
+[05Jan2025 17:50:30.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[05Jan2025 17:51:45.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> WAOTAKDJD
+[05Jan2025 17:51:58.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> OH THANKS
+[05Jan2025 17:52:31.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> man they're fighting again
+[05Jan2025 17:52:39.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> oh god-
+[05Jan2025 17:52:41.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> why x,D
+[05Jan2025 17:52:50.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> idk ;w;
+[05Jan2025 17:52:55.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[05Jan2025 17:53:01.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> im sowwy
+[05Jan2025 17:53:06.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> lets focus on un raygun
+[05Jan2025 17:53:54.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 5276.500000, -19.500000, 2210.500000]
+[05Jan2025 17:54:01.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[05Jan2025 17:54:09.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Brainiac
+[05Jan2025 17:54:09.156] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[05Jan2025 17:54:21.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 5266.500000, 3.500000, 2182.500000]
+[05Jan2025 17:54:31.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> WAIT STARLIGHT AAAAA
+[05Jan2025 17:54:46.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> omg she's here
+[05Jan2025 17:54:49.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> NOOOOO
+[05Jan2025 17:54:53.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> OH
+[05Jan2025 17:55:06.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> heal her-
+[05Jan2025 17:55:27.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Set own game mode to Creative Mode]
+[05Jan2025 17:55:42.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 5297.500000, 24.500000, 2153.500000]
+[05Jan2025 17:55:49.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 5275.500000, -21.500000, 2215.500000]
+[05Jan2025 17:56:12.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 5313.500000, 17.500000, 2245.500000]
+[05Jan2025 17:56:16.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 5305.500000, 8.500000, 2245.500000]
+[05Jan2025 17:56:23.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 5291.500000, -1.500000, 2236.500000]
+[05Jan2025 17:56:35.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 5268.500000, 11.500000, 2278.500000]
+[05Jan2025 17:56:46.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Set own game mode to Survival Mode]
+[05Jan2025 17:56:50.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[05Jan2025 17:57:54.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> oh i thought you were naked-
+[05Jan2025 17:58:01.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> nu
+[05Jan2025 17:58:16.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i was like
+[05Jan2025 17:58:18.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> wow
+[05Jan2025 17:58:25.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> that's bold even for you
+[05Jan2025 17:58:34.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> wot dat
+[05Jan2025 17:58:46.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 5248.500000, 22.500000, 2169.500000]
+[05Jan2025 17:58:50.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[05Jan2025 17:59:39.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> green big creeper
+[05Jan2025 17:59:45.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> look
+[05Jan2025 18:00:04.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> wot dat-
+[05Jan2025 18:00:08.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ok i will make it explode
+[05Jan2025 18:00:10.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> for u
+[05Jan2025 18:00:15.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> YAYAYA
+[05Jan2025 18:00:15.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> sit starlight tho
+[05Jan2025 18:00:18.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> don't die-
+[05Jan2025 18:00:24.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> i probably will
+[05Jan2025 18:00:48.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 didn't duck and cover
+[05Jan2025 18:00:48.550] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[05Jan2025 18:00:58.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> ...........................................................................
+[05Jan2025 18:01:00.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> wow
+[05Jan2025 18:01:08.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 5237.500000, 37.500000, 2119.500000]
+[05Jan2025 18:01:15.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> amazing-
+[05Jan2025 18:01:19.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> BRUH
+[05Jan2025 18:01:27.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> let's do it again
+[05Jan2025 18:01:50.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 13000]
+[05Jan2025 18:01:57.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru has reached the goal [The Ray Cat Solution]
+[05Jan2025 18:02:03.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> YAYAYAYA
+[05Jan2025 18:02:04.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> miss
+[05Jan2025 18:02:12.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> ye?
+[05Jan2025 18:02:14.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> eat it
+[05Jan2025 18:02:26.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> EHEHEHHEAHEHAEHAEHEHE
+[05Jan2025 18:02:28.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> you cannibal
+[05Jan2025 18:02:32.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> yes.
+[05Jan2025 18:02:38.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> so what
+[05Jan2025 18:02:46.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> imma eacchu
+[05Jan2025 18:02:53.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> aww
+[05Jan2025 18:02:56.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> u adorable
+[05Jan2025 18:03:14.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> where is my cat-
+[05Jan2025 18:03:33.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> WAIT
+[05Jan2025 18:03:40.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i have to abandon her now aaaa
+[05Jan2025 18:03:46.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Applied effect Night Vision to 2 targets]
+[05Jan2025 18:04:24.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[05Jan2025 18:04:30.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> miss
+[05Jan2025 18:04:41.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> yhe?
+[05Jan2025 18:04:54.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> if u put on backpat
+[05Jan2025 18:05:01.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> u can use to hear discs
+[05Jan2025 18:05:06.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> .......
+[05Jan2025 18:05:23.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> how do i do dat-
+[05Jan2025 18:05:43.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> put on the uh
+[05Jan2025 18:06:07.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> look wasup
+[05Jan2025 18:07:42.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Toxic Alloy]
+[05Jan2025 18:07:50.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> huni huni
+[05Jan2025 18:08:02.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> how do i make it play music
+[05Jan2025 18:08:48.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Hot Rod]
+[05Jan2025 18:09:09.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Revive Me, I Have a Raygun]
+[05Jan2025 18:09:20.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru has made the advancement [Revive Me, I Have a Raygun]
+[05Jan2025 18:09:24.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> HEH
+[05Jan2025 18:10:09.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> what if we do that to enderman-
+[05Jan2025 18:10:12.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> nvm-
+[05Jan2025 18:10:29.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> ha
+[05Jan2025 18:10:31.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> ahaha
+[05Jan2025 18:10:34.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> ahahahahHh
+[05Jan2025 18:10:34.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> LMAO
+[05Jan2025 18:10:36.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> misssss
+[05Jan2025 18:10:36.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> AHAHHASHSAHASHSAH
+[05Jan2025 18:10:38.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> NOOOO
+[05Jan2025 18:10:41.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> I made a monster
+[05Jan2025 18:10:50.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> I'M GONNA BURN EVERYTHING
+[05Jan2025 18:11:34.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ok seems
+[05Jan2025 18:11:37.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> we can fucking
+[05Jan2025 18:11:40.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> tame godzilla
+[05Jan2025 18:11:46.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> man i really need to put starlight somewhere
+[05Jan2025 18:11:51.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> she wants to die
+[05Jan2025 18:11:58.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 4924.500000, 46.500000, 2304.500000]
+[05Jan2025 18:12:01.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> OMG
+[05Jan2025 18:12:02.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> wjho
+[05Jan2025 18:12:08.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> SUBWOOFER LULLABY
+[05Jan2025 18:12:12.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> HEH
+[05Jan2025 18:12:20.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> Starlight wants to perish ;w;
+[05Jan2025 18:12:28.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> she keeps going under raygun
+[05Jan2025 18:12:34.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> im sowwy
+[05Jan2025 18:12:47.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> hehe byebye asshole skeleton
+[05Jan2025 18:12:52.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> LMAO
+[05Jan2025 18:12:53.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> u want raygun?
+[05Jan2025 18:12:59.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[05Jan2025 18:13:05.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> wtf-
+[05Jan2025 18:13:52.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> poor zombie
+[05Jan2025 18:13:55.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> na
+[05Jan2025 18:14:02.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> also uh
+[05Jan2025 18:14:07.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> how do you fix raygun-
+[05Jan2025 18:14:17.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> idk
+[05Jan2025 18:14:50.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> NOOO
+[05Jan2025 18:14:53.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i don't wanm
+[05Jan2025 18:14:57.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> it to break
+[05Jan2025 18:15:02.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> oh it
+[05Jan2025 18:15:04.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> also who tf is golem of origin
+[05Jan2025 18:15:04.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> it wont
+[05Jan2025 18:15:09.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> it nees an uranium rod
+[05Jan2025 18:15:11.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> how do we rechage
+[05Jan2025 18:15:15.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> oh-
+[05Jan2025 18:15:17.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> ehehe
+[05Jan2025 18:15:22.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> i will give
+[05Jan2025 18:15:24.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> we definitely have it right
+[05Jan2025 18:15:27.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> EHEHEHEH
+[05Jan2025 18:15:28.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> i can make
+[05Jan2025 18:15:32.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> EHEHAHHADJHSDBAKSDHBKJDSH
+[05Jan2025 18:15:39.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> wait imma get sum tea
+[05Jan2025 18:15:59.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> here
+[05Jan2025 18:16:06.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru has made the advancement [Hot Rod]
+[05Jan2025 18:16:27.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 4861.500000, 38.500000, 2402.500000]
+[05Jan2025 18:16:39.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 4789.500000, 7.500000, 2177.500000]
+[05Jan2025 18:17:43.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[05Jan2025 18:17:55.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> let's tame a godzilla
+[05Jan2025 18:18:01.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ok seems is
+[05Jan2025 18:18:03.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> hard
+[05Jan2025 18:18:14.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> we have to
+[05Jan2025 18:18:18.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> wtf happened-
+[05Jan2025 18:18:22.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> kill two boses from other caves
+[05Jan2025 18:18:28.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> UH
+[05Jan2025 18:18:30.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> and then craft an egg
+[05Jan2025 18:18:30.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> HUH
+[05Jan2025 18:18:33.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> and then tame
+[05Jan2025 18:18:35.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> WTF
+[05Jan2025 18:18:43.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ye
+[05Jan2025 18:18:46.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> HOW DO I TURN THIS OPFF
+[05Jan2025 18:18:50.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> wot
+[05Jan2025 18:18:54.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> oh
+[05Jan2025 18:18:57.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> idk what happened
+[05Jan2025 18:19:03.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i couldn't move my camera
+[05Jan2025 18:19:09.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> it was following you-
+[05Jan2025 18:19:13.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> oh
+[05Jan2025 18:19:15.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> yeah
+[05Jan2025 18:19:20.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> idk how to turn that off either
+[05Jan2025 18:19:30.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i just switched to another item
+[05Jan2025 18:19:56.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 4664.500000, 145.500000, 2215.500000]
+[05Jan2025 18:19:58.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> wait
+[05Jan2025 18:20:00.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 4650.500000, 18.500000, 2186.500000]
+[05Jan2025 18:20:06.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> cover me ples
+[05Jan2025 18:20:09.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i need tea
+[05Jan2025 18:20:13.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[05Jan2025 18:20:34.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> wait what if it threw that thing tho-
+[05Jan2025 18:20:54.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> look
+[05Jan2025 18:21:28.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Set own game mode to Creative Mode]
+[05Jan2025 18:22:10.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Brainiac
+[05Jan2025 18:22:10.051] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[05Jan2025 18:22:26.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 4591.500000, -40.500000, 2245.500000]
+[05Jan2025 18:22:29.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Zombie
+[05Jan2025 18:22:29.598] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[05Jan2025 18:22:41.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 4592.500000, -40.500000, 2245.500000]
+[05Jan2025 18:22:53.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Brainiac
+[05Jan2025 18:22:53.346] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[05Jan2025 18:22:57.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Timed out
+[05Jan2025 18:22:57.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[05Jan2025 18:23:42.288] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@542e731c[id=<null>,name=Juan123,properties={},legacy=false] (/100.99.124.45:57595) lost connection: Disconnected
+[05Jan2025 18:23:55.745] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.99.124.45:57613] logged in with entity id 40539 at (4592.5, -40.5, 2245.5)
+[05Jan2025 18:23:55.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
+[05Jan2025 18:23:55.823] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
+[05Jan2025 18:24:32.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Timed out
+[05Jan2025 18:24:32.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[05Jan2025 18:24:58.109] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.99.124.45:57645] logged in with entity id 40711 at (4592.5, -40.5, 2245.5)
+[05Jan2025 18:24:58.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
+[05Jan2025 18:24:58.194] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
+[05Jan2025 18:25:42.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 4572.500000, 7.500000, 2250.500000]
+[05Jan2025 18:26:13.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Timed out
+[05Jan2025 18:26:13.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[05Jan2025 18:26:37.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.99.124.45:57704] logged in with entity id 41290 at (4572.5, 7.5, 2250.5)
+[05Jan2025 18:26:37.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
+[05Jan2025 18:26:37.974] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
+[05Jan2025 18:27:21.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> XD
+[05Jan2025 18:27:26.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[05Jan2025 18:27:27.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to 4621.500000, 33.500000, 2245.500000]
+[05Jan2025 18:27:58.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Applied effect Night Vision to Juan123]
+[05Jan2025 18:29:05.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[05Jan2025 18:29:20.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> did you find it?
+[05Jan2025 18:30:08.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22893ms or 457 ticks behind
+[05Jan2025 18:30:08.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rinnmaru moved too quickly! 4.692666789139366,5.4376589035054295,-7.79309478614914
+[05Jan2025 18:30:29.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> i assume u did ;w;
+[05Jan2025 18:30:36.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Set own game mode to Survival Mode]
+[05Jan2025 18:30:45.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> yeh
+[05Jan2025 18:30:51.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru has made the advancement [Brains and Brawn]
+[05Jan2025 18:31:35.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> how do i teleport home-
+[05Jan2025 18:31:46.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> i will
+[05Jan2025 18:31:56.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1251.500000, 127.500000, 4992.500000]
+[05Jan2025 18:32:13.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> oh also come here
+[05Jan2025 18:32:21.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[05Jan2025 18:32:40.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> put potato gem
+[05Jan2025 18:32:41.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> alr starlight sit tf down ples
+[05Jan2025 18:32:42.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> here
+[05Jan2025 18:32:52.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> omg
+[05Jan2025 18:33:19.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> here?
+[05Jan2025 18:33:28.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> ye
+[05Jan2025 18:33:38.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> ;;w;;
+[05Jan2025 18:33:58.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> hes back owo
+[05Jan2025 18:33:58.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> AAAAAAAAAA POTATO
+[05Jan2025 18:34:02.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> thank akjsdkajsdn
+[05Jan2025 18:34:05.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> also also
+[05Jan2025 18:34:06.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> can
+[05Jan2025 18:34:07.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> uwu
+[05Jan2025 18:34:10.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> can we go find
+[05Jan2025 18:34:14.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> mm?
+[05Jan2025 18:34:17.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> awctic fowxes
+[05Jan2025 18:34:19.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> awww
+[05Jan2025 18:34:20.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> sure
+[05Jan2025 18:34:23.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> YAYAYAY
+[05Jan2025 18:34:34.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1711.500000, 121.500000, 3140.500000]
+[05Jan2025 18:34:38.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Gave 1 [Name Tag] to Rinnmaru]
+[05Jan2025 18:34:39.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[05Jan2025 18:34:47.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Summoned new Fox]
+[05Jan2025 18:34:57.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -1799.500000, 65.500000, 3042.500000]
+[05Jan2025 18:35:01.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Summoned new Fox]
+[05Jan2025 18:35:05.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> there u go
+[05Jan2025 18:35:14.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> come
+[05Jan2025 18:35:15.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Teleported Rinnmaru to Juan123]
+[05Jan2025 18:35:28.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Summoned new Fox]
+[05Jan2025 18:35:32.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Gave 1 [Lead] to Rinnmaru]
+[05Jan2025 18:35:40.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> here
+[05Jan2025 18:35:45.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Summoned new Fox]
+[05Jan2025 18:36:03.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> OMG STAHP
+[05Jan2025 18:36:11.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Summoned new Fox]
+[05Jan2025 18:36:16.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> here
+[05Jan2025 18:36:37.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> hehe time to breed
+[05Jan2025 18:37:06.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Gave 1 [Anvil] to Rinnmaru]
+[05Jan2025 18:37:22.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> NOOO{
+[05Jan2025 18:37:29.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> MIIIIIISSSS
+[05Jan2025 18:37:33.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> IDIOT REACT
+[05Jan2025 18:37:39.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rinnmaru has made the advancement [Mine? Mine? Mine?]
+[05Jan2025 18:37:45.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 moved wrongly!
+[05Jan2025 18:38:03.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> OH MY GOD WHY
+[05Jan2025 18:38:09.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> THEY FIGHT
+[05Jan2025 18:38:20.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> stupid fucking seaguls
+[05Jan2025 18:38:40.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rinnmaru: Gave 64 [Cooked Salmon] to Rinnmaru]
+[05Jan2025 18:39:13.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> why do they fight though-
+[05Jan2025 18:39:29.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> they both dead
+[05Jan2025 18:40:02.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> out of all places
+[05Jan2025 18:40:12.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> why did it have to be the one with dragons ajsdasdad
+[05Jan2025 18:40:12.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> idiots
+[05Jan2025 18:40:24.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> and why do i still have radiation
+[05Jan2025 18:40:33.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> u must have a radiating item
+[05Jan2025 18:41:01.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> die asshole seagull
+[05Jan2025 18:41:15.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> oh well i have a raygun and that sus bowl thingy-
+[05Jan2025 18:41:24.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> is the bowl
+[05Jan2025 18:41:26.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> oh
+[05Jan2025 18:41:30.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> a snowman
+[05Jan2025 18:41:36.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> lets kill him
+[05Jan2025 18:41:46.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rinnmaru> witha raygun
+[05Jan2025 18:41:50.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> sure
