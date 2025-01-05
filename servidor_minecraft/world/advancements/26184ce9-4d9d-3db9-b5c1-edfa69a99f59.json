@@ -3192,6 +3192,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:fox": "2025-01-05 18:51:30 +0000",
       "minecraft:chicken": "2024-12-29 20:04:12 +0000",
       "minecraft:bee": "2024-12-16 18:47:27 +0000"
     },
