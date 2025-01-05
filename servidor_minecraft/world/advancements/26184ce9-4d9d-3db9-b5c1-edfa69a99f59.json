@@ -4206,5 +4206,17 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-01-05 17:34:52 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2025-01-05 17:36:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
