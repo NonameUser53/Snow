@@ -567,14 +567,17 @@
       "beef": "2024-12-14 15:45:59 +0000",
       "porkchop": "2024-12-14 15:42:35 +0000",
       "apple": "2024-12-14 17:56:44 +0000",
+      "cooked_cod": "2024-12-29 17:37:15 +0000",
       "pumpkin_pie": "2024-12-19 20:58:17 +0000",
       "bread": "2024-12-14 18:07:26 +0000",
+      "golden_apple": "2024-12-29 17:06:14 +0000",
       "cookie": "2024-12-19 17:29:46 +0000",
       "glow_berries": "2024-12-19 16:50:08 +0000",
       "melon_slice": "2024-12-14 17:23:27 +0000",
       "mushroom_stew": "2024-12-19 18:05:26 +0000",
       "cod": "2024-12-14 17:50:45 +0000",
       "rabbit_stew": "2024-12-19 18:40:40 +0000",
+      "cooked_salmon": "2024-12-29 20:23:30 +0000",
       "carrot": "2024-12-14 14:57:24 +0000"
     },
     "done": false
@@ -3185,6 +3188,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:chicken": "2024-12-29 20:04:12 +0000",
       "minecraft:bee": "2024-12-16 18:47:27 +0000"
     },
     "done": false
@@ -3936,6 +3940,259 @@
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2024-12-19 20:32:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2024-12-29 16:15:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/myrmex_resin_jungle": {
+    "criteria": {
+      "has_item": "2024-12-29 16:34:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/spirit_campfire": {
+    "criteria": {
+      "has_datura": "2024-12-29 16:50:13 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_fruit": {
+    "criteria": {
+      "has_datura": "2024-12-29 16:50:13 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/decorations/crafting/spirit_torch": {
+    "criteria": {
+      "has_datura": "2024-12-29 16:50:13 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/datura": {
+    "criteria": {
+      "has_datura": "2024-12-29 16:50:13 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/otherworld_sapling_natural": {
+    "criteria": {
+      "has_oak_sapling": "2024-12-29 17:16:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 17:19:01 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/chalk_white_impure": {
+    "criteria": {
+      "has_ashes": "2024-12-29 17:25:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-29 17:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2024-12-29 17:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-29 17:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-29 17:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-29 17:28:05 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_calling_foliot_cleaner": {
+    "criteria": {
+      "has_book_of_binding_bound_foliot": "2024-12-29 17:56:20 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_calling_foliot_lumberjack": {
+    "criteria": {
+      "has_book_of_binding_bound_foliot": "2024-12-29 17:56:20 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_calling_foliot_transport_items": {
+    "criteria": {
+      "has_book_of_binding_bound_foliot": "2024-12-29 17:56:20 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/summon_foliot_crusher": {
+    "criteria": {
+      "summon_foliot_crusher": "2024-12-29 17:57:39 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/iron_ingot_from_dust": {
+    "criteria": {
+      "has_iron_dust": "2024-12-29 18:09:07 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/iron_ingot_from_dust": {
+    "criteria": {
+      "has_iron_dust": "2024-12-29 18:09:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2024-12-29 18:23:58 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_armor_dragon": {
+    "criteria": {
+      "gobber2_helmet_dragon": "2024-12-29 18:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-29 19:36:25 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/end_stone_dust": {
+    "criteria": {
+      "has_end_stone": "2024-12-29 19:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-29 19:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-12-29 19:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-29 19:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-29 19:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-29 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-29 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-29 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_calling_djinni_manage_machine": {
+    "criteria": {
+      "has_book_of_binding_bound_djinni": "2024-12-29 20:09:09 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/familiar_dragon": {
+    "criteria": {
+      "familiar_dragon": "2024-12-29 20:14:23 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/familiar/root": {
+    "criteria": {
+      "summon_familiar": "2024-12-29 20:14:23 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/familiar/mans_best_friend": {
+    "criteria": {
+      "dragon_pet": "2024-12-29 20:20:54 +0000",
+      "dragon_fetch": "2024-12-29 20:19:58 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/familiar_otherworld_bird": {
+    "criteria": {
+      "familiar_otherworld_bird": "2024-12-29 20:28:15 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_binding_foliot": {
+    "criteria": {
+      "has_taboo_book": "2024-12-29 20:33:57 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_binding_marid": {
+    "criteria": {
+      "has_taboo_book": "2024-12-29 20:33:57 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_binding_afrit": {
+    "criteria": {
+      "has_taboo_book": "2024-12-29 20:33:57 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_binding_djinni": {
+    "criteria": {
+      "has_taboo_book": "2024-12-29 20:33:57 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_binding_empty": {
+    "criteria": {
+      "has_taboo_book": "2024-12-29 20:33:57 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/familiar_deer": {
+    "criteria": {
+      "familiar_deer": "2024-12-29 20:35:39 +0000"
     },
     "done": true
   },
